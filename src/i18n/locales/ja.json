@@ -1,0 +1,23 @@
+{
+  "app": {
+    "brand": "フードマップ",
+    "title": "地域ごとの料理を探す",
+    "languageSwitch": "English",
+    "languageSwitchAria": "英語に切り替える"
+  },
+  "worldMap": {
+    "title": "世界地図",
+    "instructions": "国をクリックして選択してください。",
+    "selectedLocation": "選択中の地域",
+    "defaultSelection": "まだ国が選択されていません"
+  },
+  "foodPanel": {
+    "title": "おすすめの料理",
+    "titleWithRegion": "{{region}}の料理",
+    "description": "{{region}}に関連する料理を見つけましょう。",
+    "emptyState": "地図の国を選択すると、料理が表示されます。",
+    "loading": "料理を読み込み中…",
+    "empty": "この地域の料理はまだありません。",
+    "error": "この地域の料理を読み込めませんでした。"
+  }
+}

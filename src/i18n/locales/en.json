@@ -1,0 +1,23 @@
+{
+  "app": {
+    "brand": "FoodMap",
+    "title": "Discover dishes by region",
+    "languageSwitch": "日本語",
+    "languageSwitchAria": "Switch to Japanese"
+  },
+  "worldMap": {
+    "title": "World Map",
+    "instructions": "Click a country to select it.",
+    "selectedLocation": "Selected location",
+    "defaultSelection": "No country selected yet"
+  },
+  "foodPanel": {
+    "title": "Featured Dishes",
+    "titleWithRegion": "Dishes in {{region}}",
+    "description": "Discover dishes associated with {{region}}.",
+    "emptyState": "Select a country on the map to discover its dishes.",
+    "loading": "Loading dishes…",
+    "empty": "No dishes are available for this region yet.",
+    "error": "We could not load dishes for this region right now."
+  }
+}
