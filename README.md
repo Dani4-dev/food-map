@@ -1,5 +1,7 @@
 # FoodMap - 世界の料理地図
 
+デプロイ済みプロジェクト: https://dani4-dev.github.io/food-map/
+
 ## 日本語
 
 ### 概要
