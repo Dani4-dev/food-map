@@ -1,0 +1,150 @@
+{
+  "dishes": [
+    {
+      "id": "japan-sushi",
+      "name": {
+        "en": "Sushi",
+        "ja": "寿司"
+      },
+      "description": {
+        "en": "A traditional Japanese dish made with vinegared rice, often served with seafood.",
+        "ja": "酢飯を使い、魚介類などと組み合わせて作る日本の伝統的な料理です。"
+      },
+      "origin": {
+        "country": "JPN"
+      }
+    },
+    {
+      "id": "japan-ramen",
+      "name": {
+        "en": "Ramen",
+        "ja": "ラーメン"
+      },
+      "description": {
+        "en": "A Japanese noodle dish served in a flavorful broth with various toppings.",
+        "ja": "スープに麺を入れ、さまざまな具材をのせて食べる日本の麺料理です。"
+      },
+      "origin": {
+        "country": "JPN"
+      }
+    },
+    {
+      "id": "italy-carbonara",
+      "name": {
+        "en": "Spaghetti Carbonara",
+        "ja": "カルボナーラ"
+      },
+      "description": {
+        "en": "A Roman pasta dish made with eggs, cheese, cured pork, and black pepper.",
+        "ja": "卵、チーズ、豚肉、黒こしょうを使ったローマ発祥のパスタ料理です。"
+      },
+      "origin": {
+        "country": "ITA",
+        "region": "Lazio",
+        "city": "Rome"
+      }
+    },
+    {
+      "id": "italy-margherita",
+      "name": {
+        "en": "Margherita Pizza",
+        "ja": "マルゲリータ"
+      },
+      "description": {
+        "en": "A classic Italian pizza with tomato, mozzarella, and basil.",
+        "ja": "トマト、モッツァレラチーズ、バジルを使った代表的なイタリアのピザです。"
+      },
+      "origin": {
+        "country": "ITA",
+        "region": "Campania",
+        "city": "Naples"
+      }
+    },
+    {
+      "id": "mexico-tacos-al-pastor",
+      "name": {
+        "en": "Tacos al Pastor",
+        "ja": "タコス・アル・パストール"
+      },
+      "description": {
+        "en": "Mexican tacos filled with seasoned roasted pork and commonly served with pineapple.",
+        "ja": "香辛料で味付けした豚肉とパイナップルなどを使ったメキシコのタコスです。"
+      },
+      "origin": {
+        "country": "MEX"
+      }
+    },
+    {
+      "id": "mexico-enchiladas",
+      "name": {
+        "en": "Enchiladas",
+        "ja": "エンチラーダ"
+      },
+      "description": {
+        "en": "Filled tortillas covered with a savory chili-based sauce.",
+        "ja": "具材を包んだトルティーヤに唐辛子を使ったソースをかけた料理です。"
+      },
+      "origin": {
+        "country": "MEX"
+      }
+    },
+    {
+      "id": "india-butter-chicken",
+      "name": {
+        "en": "Butter Chicken",
+        "ja": "バターチキンカレー"
+      },
+      "description": {
+        "en": "Chicken cooked in a rich and creamy tomato-based curry sauce.",
+        "ja": "鶏肉をトマトとバターを使った濃厚でクリーミーなソースで煮込んだ料理です。"
+      },
+      "origin": {
+        "country": "IND",
+        "region": "Delhi"
+      }
+    },
+    {
+      "id": "india-biryani",
+      "name": {
+        "en": "Biryani",
+        "ja": "ビリヤニ"
+      },
+      "description": {
+        "en": "A fragrant rice dish prepared with spices, meat, vegetables, or other ingredients.",
+        "ja": "香辛料と肉や野菜などを米と一緒に調理する香り豊かな料理です。"
+      },
+      "origin": {
+        "country": "IND"
+      }
+    },
+    {
+      "id": "france-croissant",
+      "name": {
+        "en": "Croissant",
+        "ja": "クロワッサン"
+      },
+      "description": {
+        "en": "A flaky, buttery French pastry made from layered dough.",
+        "ja": "何層にも折り重ねた生地から作られる、バターの風味豊かなフランスのパンです。"
+      },
+      "origin": {
+        "country": "FRA"
+      }
+    },
+    {
+      "id": "france-ratatouille",
+      "name": {
+        "en": "Ratatouille",
+        "ja": "ラタトゥイユ"
+      },
+      "description": {
+        "en": "A Provençal dish made from stewed vegetables such as tomatoes, zucchini, and eggplant.",
+        "ja": "トマト、ズッキーニ、ナスなどの野菜を煮込んだ南フランスの料理です。"
+      },
+      "origin": {
+        "country": "FRA",
+        "region": "Provence"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2239c7ae-02a6-44cb-9c1e-3d6cbf6a9d2f",
+  "createdAt": "2026-10-13T02:16:10.973654+00:00",
+  "name": {
+    "en": "test",
+    "ja": "料理"
+  },
+  "origin": {
+    "country": "RUS",
+    "region": "Rjazanskaja oblast'",
+    "city": "Raduzhny"
+  },
+  "description": {
+    "en": "des",
+    "ja": "説明"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "ing",
+      "ja": "材料"
+    },
+    "preparation": {
+      "en": "pre",
+      "ja": "作り方"
+    }
+  },
+  "image": "Pictures/test.jpeg"
+}

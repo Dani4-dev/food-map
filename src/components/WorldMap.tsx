@@ -19,6 +19,7 @@ interface CountryProperties {
 }
 
 interface CountryFeature extends Omit<Feature, 'properties'> {
+  id?: string
   properties?: CountryProperties | null
 }
 
@@ -67,9 +68,14 @@ export function WorldMap({ onSelectLocation, selectedLocation }: WorldMapProps) 
     [],
   )
 
-  const onEachFeature = (feature: CountryFeature, layer: { on: (event: string, handler: () => void) => void }) => {
+  const onEachFeature = (
+  feature: CountryFeature,
+  layer: { on: (event: string, handler: () => void) => void },
+  ) => {
     layer.on('click', () => {
-      onSelectLocation(getCountryName(feature))
+      if (feature.id) {
+        onSelectLocation(feature.id)
+      }
     })
   }
 

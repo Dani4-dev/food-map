@@ -1,70 +1,33 @@
-import type { Dish } from '../types/food'
+import type { DatabaseDish } from '../types/food'
 
-export const foodDatabase: Dish[] = [
+const dishFiles = import.meta.glob(
+  '/DishEditor/dishes/*/*.json',
   {
-    id: 'japan-1',
-    name: 'Sushi',
-    country: 'Japan',
-    description: 'Fresh rice and seafood served with precision.',
+    eager: true,
+    import: 'default',
   },
-  {
-    id: 'japan-2',
-    name: 'Ramen',
-    country: 'Japan',
-    description: 'Comforting noodles in a rich, savory broth.',
-  },
-  {
-    id: 'italy-1',
-    name: 'Spaghetti Carbonara',
-    country: 'Italy',
-    description: 'Classic pasta tossed with egg, cheese, and pepper.',
-  },
-  {
-    id: 'italy-2',
-    name: 'Margherita Pizza',
-    country: 'Italy',
-    description: 'Simple and iconic pizza with tomato, mozzarella, and basil.',
-  },
-  {
-    id: 'mexico-1',
-    name: 'Tacos al Pastor',
-    country: 'Mexico',
-    description: 'A flavorful street-food favorite with a smoky finish.',
-  },
-  {
-    id: 'mexico-2',
-    name: 'Enchiladas',
-    country: 'Mexico',
-    description: 'Rolled tortillas filled with meat or cheese and covered in sauce.',
-  },
-  {
-    id: 'india-1',
-    name: 'Butter Chicken',
-    country: 'India',
-    description: 'Tender chicken in a creamy tomato-based curry.',
-  },
-  {
-    id: 'india-2',
-    name: 'Biryani',
-    country: 'India',
-    description: 'Fragrant rice layered with spices and marinated meat or vegetables.',
-  },
-  {
-    id: 'france-1',
-    name: 'Croissant',
-    country: 'France',
-    description: 'Buttery pastry with a crisp, golden crust.',
-  },
-  {
-    id: 'france-2',
-    name: 'Ratatouille',
-    country: 'France',
-    description: 'A colorful vegetable stew that highlights Provençal flavors.',
-  },
-]
+) as Record<string, DatabaseDish>
 
-export function getDishesByRegion(region: string): Dish[] {
-  const normalizedRegion = region.trim().toLowerCase()
+const imageFiles = import.meta.glob(
+  '/DishEditor/dishes/Pictures/*.{png,jpg,jpeg,webp}',
+  {
+    eager: true,
+    query: '?url',
+    import: 'default',
+  },
+) as Record<string, string>
 
-  return foodDatabase.filter((dish) => dish.country?.toLowerCase() === normalizedRegion)
+export const foodDatabase: DatabaseDish[] =
+  Object.values(dishFiles)
+
+export function getDishImageUrl(
+  imagePath?: string,
+): string | undefined {
+  if (!imagePath) {
+    return undefined
+  }
+
+  const fullPath = `/DishEditor/dishes/${imagePath}`
+
+  return imageFiles[fullPath]
 }

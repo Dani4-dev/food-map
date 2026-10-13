@@ -152,11 +152,10 @@
 }
 
 .dish-card__image {
+  display: block;
   width: 100%;
-  height: 140px;
+  height: 220px;
   object-fit: cover;
-  border-radius: 0.6rem;
-  margin-bottom: 0.75rem;
 }
 
 .dish-card__region {
