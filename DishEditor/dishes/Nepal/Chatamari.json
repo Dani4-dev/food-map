@@ -1,0 +1,29 @@
+{
+  "id": "nepali-chatamari-004",
+  "createdAt": "2026-10-13T00:00:00+00:00",
+  "updatedAt": "2026-10-13T00:00:00+00:00",
+  "name": {
+    "en": "Chatamari",
+    "ja": "チャタマリ（ネワール風ライスパンケーキ）"
+  },
+  "origin": {
+    "country": "Nepal",
+    "region": "Kathmandu Valley",
+    "city": "Kathmandu"
+  },
+  "description": {
+    "en": "Chatamari is a traditional Newari dish made from rice flour. It resembles a thin pancake and can be topped with minced meat, eggs, onions, and spices.",
+    "ja": "チャタマリは、米粉から作られるネワール族の伝統料理です。薄いパンケーキのような形で、ひき肉、卵、玉ねぎ、スパイスなどをのせて食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Rice flour, water, minced meat (optional), eggs (optional), onion, tomato, coriander, salt, and spices.",
+      "ja": "米粉、水、ひき肉（お好みで）、卵（お好みで）、玉ねぎ、トマト、パクチー、塩、スパイス。"
+    },
+    "preparation": {
+      "en": "Mix rice flour with water to make a smooth batter. Spread it thinly on a hot pan. Add the desired toppings, cover, and cook until the base is firm and the toppings are done.",
+      "ja": "米粉と水を混ぜて滑らかな生地を作ります。熱したフライパンに薄く広げ、お好みの具材をのせます。ふたをして、生地と具材に火が通るまで焼きます。"
+    }
+  },
+  "image": "Pictures/Chatamari.jpg"
+}

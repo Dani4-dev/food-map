@@ -1,0 +1,27 @@
+{
+  "id": "4cfe7993-94d2-4ac7-b637-d079126ec216",
+  "createdAt": "2026-10-13T03:10:00+00:00",
+  "name": {
+    "en": "Pelmeni",
+    "ja": "ペリメニ"
+  },
+  "origin": {
+    "country": "RUS",
+    "region": "Siberia"
+  },
+  "description": {
+    "en": "Small dumplings filled with seasoned minced meat and wrapped in thin dough. Pelmeni are usually boiled and served hot with butter, sour cream, black pepper, or vinegar.",
+    "ja": "薄い生地で味付けしたひき肉を包んだロシアの小さな水餃子です。通常は茹でて、バター、サワークリーム、黒こしょう、酢などと一緒に食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Flour, water, egg, salt, ground beef, ground pork, onion, black pepper, butter, and sour cream.",
+      "ja": "小麦粉、水、卵、塩、牛ひき肉、豚ひき肉、玉ねぎ、黒こしょう、バター、サワークリーム。"
+    },
+    "preparation": {
+      "en": "Prepare a firm dough from flour, water, egg, and salt. Mix the ground meat with finely chopped onion, salt, and pepper. Roll the dough thinly and cut it into small circles. Place a little filling in the center of each circle, fold and seal the edges, then join the ends. Boil the pelmeni in salted water until cooked. Serve hot with butter or sour cream.",
+      "ja": "小麦粉、水、卵、塩を混ぜて生地を作ります。ひき肉に細かく刻んだ玉ねぎ、塩、こしょうを加えて混ぜます。生地を薄く伸ばして小さな円形に切り、中央に具をのせて包みます。端をしっかり閉じ、両端を合わせます。塩を加えた湯で火が通るまで茹で、バターやサワークリームを添えて食べます。"
+    }
+  },
+  "image": "Pictures/Pelmeni.jpeg"
+}

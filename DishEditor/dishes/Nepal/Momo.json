@@ -1,0 +1,28 @@
+{
+  "id": "a7c9e2f1-4b63-4d85-9a21-6f8b3c0d5e72",
+  "createdAt": "2026-10-13T03:58:59+00:00",
+  "name": {
+    "en": "Momo",
+    "ja": "モモ（ネパール風餃子）"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Kathmandu Valley",
+    "city": "Kathmandu"
+  },
+  "description": {
+    "en": "Momo is a popular Nepali dumpling filled with minced meat or vegetables. It is usually steamed and served with spicy tomato chutney.",
+    "ja": "モモは、ひき肉や野菜を皮で包んだネパールの人気料理です。一般的に蒸して調理し、辛いトマトチャツネを添えて食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Dumpling wrappers, minced chicken or vegetables, onion, garlic, ginger, coriander, salt, black pepper, and cooking oil.",
+      "ja": "餃子の皮、鶏ひき肉または野菜、玉ねぎ、にんにく、しょうが、パクチー、塩、黒こしょう、食用油。"
+    },
+    "preparation": {
+      "en": "Mix the filling ingredients. Place a small amount in each wrapper and seal the edges. Steam for 10–15 minutes until thoroughly cooked. Serve with spicy tomato chutney.",
+      "ja": "具材を混ぜ、少量ずつ皮に包んで口を閉じます。火が通るまで10～15分ほど蒸し、辛いトマトチャツネを添えて食べます。"
+    }
+  },
+  "image": "Pictures/Momo.jpg"
+}

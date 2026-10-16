@@ -1,0 +1,26 @@
+{
+  "id": "d273fe79-8b34-4ccd-af29-d482347d6583",
+  "createdAt": "2026-10-13T03:31:00+00:00",
+  "name": {
+    "en": "Vatrushka",
+    "ja": "ヴァトルーシュカ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A traditional round pastry with an open center filled most commonly with sweetened tvorog or cottage cheese.",
+    "ja": "中央を開けた丸い生地に、甘く味付けしたトヴォーログやカッテージチーズを詰めて焼く伝統的な菓子パンです。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Flour, milk, yeast, sugar, egg, butter, salt, tvorog or cottage cheese, vanilla, and optional raisins.",
+      "ja": "小麦粉、牛乳、イースト、砂糖、卵、バター、塩、トヴォーログまたはカッテージチーズ、バニラ、好みでレーズン。"
+    },
+    "preparation": {
+      "en": "Prepare a soft yeast dough and allow it to rise. Shape into small rounds and make a hollow in the center of each. Mix the cheese with sugar, egg, and vanilla and place it in the centers. Brush the dough with egg and bake until golden.",
+      "ja": "柔らかいイースト生地を作り発酵させます。小さな丸形にして中央をくぼませます。チーズに砂糖、卵、バニラを混ぜて中央に詰め、生地に卵を塗ってきつね色になるまで焼きます。"
+    }
+  },
+  "image": "Pictures/Vatrushka.jpeg"
+}

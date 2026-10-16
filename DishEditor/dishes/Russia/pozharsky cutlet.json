@@ -1,0 +1,28 @@
+{
+  "id": "5085131a-2b17-40e0-ac12-d25325983699",
+  "createdAt": "2026-10-13T03:27:00+00:00",
+  "name": {
+    "en": "Pozharsky Cutlet",
+    "ja": "ポジャルスキー・カツレツ"
+  },
+  "origin": {
+    "country": "RUS",
+    "region": "Tver Oblast",
+    "city": "Torzhok"
+  },
+  "description": {
+    "en": "A Russian breaded cutlet traditionally made from finely minced chicken. It is known for its crisp exterior and particularly juicy, buttery interior.",
+    "ja": "細かくした鶏肉を使って作るロシアのカツレツです。外側は香ばしく、中はバターの風味がある柔らかくジューシーな食感が特徴です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Chicken, white bread, milk or cream, butter, breadcrumbs, salt, black pepper, and oil or clarified butter for frying.",
+      "ja": "鶏肉、白パン、牛乳またはクリーム、バター、パン粉、塩、黒こしょう、揚げ焼き用の油または澄ましバター。"
+    },
+    "preparation": {
+      "en": "Soak bread in milk or cream and combine it with finely minced chicken and butter. Season and shape into oval cutlets. Coat with breadcrumbs and fry gently until golden on both sides and fully cooked inside.",
+      "ja": "パンを牛乳またはクリームに浸し、細かくした鶏肉とバターを混ぜます。塩とこしょうで味を調え、楕円形に成形します。パン粉をつけ、両面がきつね色になり中まで火が通るまで焼きます。"
+    }
+  },
+  "image": "Pictures/Pozharsky Cutlet.jpeg"
+}

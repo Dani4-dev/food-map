@@ -1,0 +1,26 @@
+{
+  "id": "b3a16366-be96-44b4-b2a3-d257bf010a2c",
+  "createdAt": "2026-10-13T03:29:00+00:00",
+  "name": {
+    "en": "Kholodets",
+    "ja": "ホロジェツ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A traditional savory meat aspic made by slowly cooking meat and bones until the broth naturally gels after cooling. It is usually served cold with mustard or horseradish.",
+    "ja": "肉や骨を長時間煮込み、冷やすことでスープを自然に固めて作るロシアの肉料理です。冷たい状態でマスタードやホースラディッシュと一緒に食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Pork or beef bones and joints, meat, carrots, onion, garlic, bay leaf, black peppercorns, salt, and water.",
+      "ja": "豚または牛の骨や関節部分、肉、にんじん、玉ねぎ、にんにく、ローリエ、黒こしょう粒、塩、水。"
+    },
+    "preparation": {
+      "en": "Slowly simmer the meat and bones in water for several hours until the broth becomes rich in gelatin. Strain the broth and shred the cooked meat. Arrange the meat in dishes, add garlic if desired, pour over the broth, and refrigerate until completely set.",
+      "ja": "肉と骨を数時間かけて弱火で煮込み、ゼラチン質を十分に抽出します。スープをこし、肉を細かくほぐします。器に肉を入れ、好みでにんにくを加え、スープを注いで冷蔵庫で完全に固まるまで冷やします。"
+    }
+  },
+  "image": "Pictures/Kholodets.jpeg"
+}

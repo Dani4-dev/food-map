@@ -1,0 +1,28 @@
+{
+  "id": "7c4e2f19-a835-46d1-b902-5e8a3d71c640",
+  "createdAt": "2026-10-16T02:31:25+00:00",
+  "name": {
+    "en": "Lamington",
+    "ja": "ラミントン"
+  },
+  "origin": {
+    "country": "AUS",
+    "region": "Queensland"
+  },
+  "updatedAt": "2026-10-16T02:47:04.782559+00:00",
+  "description": {
+    "en": "Lamington is a classic Australian dessert made from sponge cake coated in chocolate icing and rolled in desiccated coconut. Some versions include cream or jam.",
+    "ja": "ラミントンは、スポンジケーキにチョコレートアイシングをまとわせ、乾燥ココナッツをまぶしたオーストラリアの定番デザートです。クリームやジャムを挟んだ種類もあります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Sponge cake, powdered sugar, cocoa powder, butter, milk, and desiccated coconut. Optional: whipped cream or jam.",
+      "ja": "スポンジケーキ、粉砂糖、ココアパウダー、バター、牛乳、乾燥ココナッツ。お好みでホイップクリームやジャム。"
+    },
+    "preparation": {
+      "en": "Cut the sponge cake into squares. Mix powdered sugar, cocoa powder, melted butter, and milk to make chocolate icing. Dip each cake square into the icing, then roll it in desiccated coconut. Allow the coating to set before serving.",
+      "ja": "スポンジケーキを四角く切ります。粉砂糖、ココアパウダー、溶かしバター、牛乳を混ぜてチョコレートアイシングを作ります。ケーキをアイシングに浸し、乾燥ココナッツをまぶします。表面が固まってから提供します。"
+    }
+  },
+  "image": "Pictures/Lamington.jpg"
+}

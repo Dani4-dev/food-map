@@ -1,0 +1,28 @@
+{
+  "id": "f2b8c4d1-6a93-47e5-9c20-8d1e3f7a5b64",
+  "createdAt": "2026-10-16T01:14:29+00:00",
+  "name": {
+    "en": "Juju Dhau",
+    "ja": "ジュジュ・ダウ（王様のヨーグルト）"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Bhaktapur District",
+    "city": "Bhaktapur"
+  },
+  "description": {
+    "en": "Juju Dhau, meaning 'king of yogurt,' is a famous traditional yogurt from Bhaktapur, Nepal. It is known for its rich, creamy texture, mild sweetness, and distinctive flavor. It is traditionally made from buffalo milk and served in clay pots.",
+    "ja": "ジュジュ・ダウは「ヨーグルトの王様」という意味を持つ、ネパールのバクタプルで有名な伝統的なヨーグルトです。濃厚でクリーミーな食感、ほどよい甘さ、独特の風味が特徴です。伝統的には水牛の乳から作られ、素焼きの器で提供されます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Full-fat buffalo milk, sugar, and a small amount of plain yogurt containing live cultures as a starter.",
+      "ja": "脂肪分の多い水牛の乳、砂糖、生きた乳酸菌を含む少量のプレーンヨーグルト（種菌用）。"
+    },
+    "preparation": {
+      "en": "Heat the milk and simmer gently until slightly reduced. Add sugar if desired and allow the milk to cool until lukewarm. Mix in the yogurt starter, pour into clean clay pots, cover, and keep warm until the yogurt sets. Refrigerate to firm the texture before serving.",
+      "ja": "牛乳を加熱し、少し煮詰まるまで弱火で温めます。お好みで砂糖を加え、ぬるくなるまで冷まします。種菌用のヨーグルトを混ぜ、清潔な素焼きの器に注ぎます。ふたをして、固まるまで暖かい場所に置きます。食感を整えるため、冷蔵庫で冷やしてから提供します。"
+    }
+  },
+  "image": "Pictures/Juju Dhau.jpg"
+}

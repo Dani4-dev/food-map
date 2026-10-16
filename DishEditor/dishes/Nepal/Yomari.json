@@ -1,0 +1,27 @@
+{
+  "id": "a5c8d2e1-7f43-4b96-8a20-3d6e9f1c5742",
+  "createdAt": "2026-10-16T01:13:29+00:00",
+  "name": {
+    "en": "Yomari",
+    "ja": "ヨマリ（ネパールの伝統的な米粉菓子）"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Kathmandu Valley"
+  },
+  "description": {
+    "en": "Yomari is a traditional Newari steamed rice-flour dumpling shaped like a fish. It is usually filled with molasses and sesame seeds and is especially associated with the Yomari Punhi festival. It is a popular traditional sweet in Nepal.",
+    "ja": "ヨマリは、魚のような形をしたネワール族の伝統的な米粉の蒸し菓子です。一般的に黒糖やゴマを詰めて作られ、ヨマリ・プンヒという祭りと特に深い関わりがあります。ネパールで親しまれている伝統的なお菓子です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Rice flour, warm water, molasses or jaggery, sesame seeds, and a little ghee or butter.",
+      "ja": "米粉、ぬるま湯、糖蜜またはジャガリー（未精製の砂糖）、ゴマ、少量のギーまたはバター。"
+    },
+    "preparation": {
+      "en": "Mix rice flour with warm water to make a soft dough. Combine molasses or jaggery with sesame seeds to prepare the filling. Shape the dough into small pointed dumplings, fill them with the mixture, and seal the openings. Steam for about 15–20 minutes until cooked.",
+      "ja": "米粉とぬるま湯を混ぜて柔らかい生地を作ります。糖蜜またはジャガリーとゴマを混ぜて具を用意します。生地を先のとがった形に整え、中に具を詰めて口を閉じます。火が通るまで約15～20分蒸します。"
+    }
+  },
+  "image": "Pictures/Yomari.jpg"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "8f3c2a71-6b94-4d12-ae57-91c0f2d8b635",
+  "createdAt": "2026-10-16T02:31:00+00:00",
+  "name": {
+    "en": "Meat Pie",
+    "ja": "ミートパイ"
+  },
+  "origin": {
+    "country": "AUS",
+    "region": "Australia"
+  },
+  "updatedAt": "2026-10-16T02:53:26.475878+00:00",
+  "description": {
+    "en": "An iconic Australian savory pie filled with minced meat and rich gravy, wrapped in golden, flaky pastry. It is commonly enjoyed as a quick lunch, snack, or meal at sporting events.",
+    "ja": "ひき肉と濃厚なグレービーソースをサクサクのパイ生地で包んだ、オーストラリアを代表する料理です。手軽なランチや軽食、スポーツ観戦の際によく食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Minced beef, onion, beef stock, flour, tomato paste, Worcestershire sauce, salt, black pepper, puff pastry, shortcrust pastry, and egg for brushing.",
+      "ja": "牛ひき肉、玉ねぎ、ビーフストック、小麦粉、トマトペースト、ウスターソース、塩、黒こしょう、パイシート、ショートクラストペストリー、表面に塗る卵。"
+    },
+    "preparation": {
+      "en": "Cook the minced beef and chopped onion in a pan. Add flour, beef stock, tomato paste, Worcestershire sauce, salt, and pepper, then simmer until the filling thickens. Place the filling into pastry-lined pie tins, cover with puff pastry, seal the edges, and brush with beaten egg. Bake until the pastry is golden brown and crisp.",
+      "ja": "フライパンで牛ひき肉と刻んだ玉ねぎを炒めます。小麦粉、ビーフストック、トマトペースト、ウスターソース、塩、こしょうを加え、とろみがつくまで煮込みます。パイ生地を敷いた型に具を入れ、パイシートでふたをして端を閉じ、溶き卵を塗ります。オーブンで表面がきつね色になり、サクサクになるまで焼きます。"
+    }
+  },
+  "image": "Pictures/Meat Pie.jpg"
+}

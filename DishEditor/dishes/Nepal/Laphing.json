@@ -1,0 +1,28 @@
+{
+  "id": "b7d3e9a2-5c41-46f8-9a20-1d6e7c3f8452",
+  "createdAt": "2026-10-16T01:16:00+00:00",
+  "name": {
+    "en": "Laphing",
+    "ja": "ラフィン（チベット風冷製麺料理）"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Kathmandu Valley",
+    "city": "Boudha"
+  },
+  "description": {
+    "en": "Laphing is a popular Tibetan-style cold noodle dish enjoyed around Boudha in Kathmandu, an area known for its Tibetan community. Made from mung bean or wheat starch, it is served with chili oil, garlic, soy sauce, and other seasonings. It is known for its slippery texture and spicy, tangy flavor.",
+    "ja": "ラフィンは、カトマンズのボダナート周辺で親しまれているチベット風の冷たい麺料理です。緑豆や小麦のでんぷんから作られ、ラー油、にんにく、しょうゆなどで味付けします。つるつるとした食感と、辛くて酸味のある味わいが特徴です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Mung bean starch or wheat starch, water, chili oil, garlic, soy sauce, vinegar, salt, and spring onions.",
+      "ja": "緑豆でんぷんまたは小麦でんぷん、水、ラー油、にんにく、しょうゆ、酢、塩、青ねぎ。"
+    },
+    "preparation": {
+      "en": "Mix the starch with water to make a smooth mixture. Cook it gently while stirring until thickened, then pour it into a shallow tray and let it cool until firm. Cut into strips or roll into noodle sheets. Toss with chili oil, crushed garlic, soy sauce, vinegar, salt, and chopped spring onions. Serve cold.",
+      "ja": "でんぷんと水を混ぜて滑らかな液体を作ります。かき混ぜながら加熱し、とろみがついたら浅い容器に流し入れ、固まるまで冷まします。細長く切るか、麺状に巻きます。ラー油、すりつぶしたにんにく、しょうゆ、酢、塩、刻んだ青ねぎで和え、冷たい状態で提供します。"
+    }
+  },
+  "image": "Pictures/Laphing.jpg"
+}

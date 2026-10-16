@@ -1,0 +1,28 @@
+{
+  "id": "b4e8c2a7-1d63-4f95-8a20-6c7d3e9f5142",
+  "createdAt": "2026-10-16T01:10:27+00:00",
+  "name": {
+    "en": "Dahi Chiura",
+    "ja": "ダヒ・チウラ（ヨーグルトと干し米）"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Koshi Province",
+    "city": "Bhadrapur"
+  },
+  "description": {
+    "en": "Dahi Chiura is a traditional Nepali dish made with beaten rice and yogurt. It is often enjoyed as a light meal or snack and can be served with bananas, seasonal fruits, or a little sugar. It is also eaten during festivals and family celebrations.",
+    "ja": "ダヒ・チウラは、干し米とヨーグルトを組み合わせたネパールの伝統料理です。軽食や簡単な食事として親しまれ、バナナや季節の果物、少量の砂糖を添えることもあります。お祭りや家族のお祝いの際にも食べられます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Beaten rice (chiura), plain yogurt, ripe bananas (optional), seasonal fruits (optional), and sugar or honey (optional).",
+      "ja": "干し米（チウラ）、プレーンヨーグルト、熟したバナナ（お好みで）、季節の果物（お好みで）、砂糖またははちみつ（お好みで）。"
+    },
+    "preparation": {
+      "en": "Place the beaten rice in a bowl and lightly sprinkle with water if it is too dry. Add yogurt and mix gently. Top with sliced bananas or other fruits, and add sugar or honey if desired. Serve fresh.",
+      "ja": "干し米を器に入れ、乾燥している場合は少量の水を振りかけます。ヨーグルトを加えて優しく混ぜます。スライスしたバナナや果物をのせ、お好みで砂糖やはちみつを加えます。できたてを提供します。"
+    }
+  },
+  "image": "Pictures/Dahi Chiura.jpg"
+}

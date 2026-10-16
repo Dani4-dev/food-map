@@ -1,29 +1,21 @@
-const regionNamesByLanguage: Record<string, Record<string, string>> = {
-  en: {
-    Canada: 'Canada',
-    Japan: 'Japan',
-    Italy: 'Italy',
-    Mexico: 'Mexico',
-    France: 'France',
-    India: 'India',
-  },
-  ja: {
-    Canada: 'カナダ',
-    Japan: '日本',
-    Italy: 'イタリア',
-    Mexico: 'メキシコ',
-    France: 'フランス',
-    India: 'インド',
-  },
+import countries from '../data/countries.json'
+export function canonicalCountryCode(value: string) {
+  const normalized = value.trim().toLowerCase()
+  return (
+    countries.find((c) =>
+      [c.alpha2, c.alpha3, c.name].some((v) => v.toLowerCase() === normalized),
+    )?.alpha3 ?? value.toUpperCase()
+  )
 }
-
-export function getLocalizedRegionName(region: string, language = 'en') {
-  const normalizedLanguage = language?.startsWith('ja') ? 'ja' : 'en'
-  const normalizedRegion = region?.trim()
-
-  if (!normalizedRegion) {
-    return ''
-  }
-
-  return regionNamesByLanguage[normalizedLanguage]?.[normalizedRegion] ?? normalizedRegion
+export function countryCode(alpha2: string) {
+  return countries.find((c) => c.alpha2 === alpha2.toUpperCase())?.alpha3 ?? ''
+}
+export function getLocalizedRegionName(code: string, language = 'en') {
+  if (!code) return ''
+  const country = countries.find((c) => c.alpha3 === code || c.alpha2 === code)
+  return country
+    ? (new Intl.DisplayNames([language.startsWith('ja') ? 'ja' : 'en'], {
+        type: 'region',
+      }).of(country.alpha2) ?? country.name)
+    : code
 }

@@ -1,0 +1,26 @@
+{
+  "id": "b3549b48-c23f-4ae5-81d8-f68df889abcc",
+  "createdAt": "2026-10-13T03:11:00+00:00",
+  "name": {
+    "en": "Shchi",
+    "ja": "シチー"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A traditional Russian cabbage soup made with fresh or fermented cabbage. It can be prepared with meat or as a vegetable soup and is commonly served with sour cream and rye bread.",
+    "ja": "生のキャベツや発酵キャベツを使って作るロシアの伝統的なスープです。肉入りや野菜だけのものがあり、サワークリームやライ麦パンと一緒に食べることが多いです。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Cabbage or sauerkraut, beef, potatoes, carrots, onion, tomato paste, broth, bay leaf, black pepper, salt, sour cream, and fresh herbs.",
+      "ja": "キャベツまたはザワークラウト、牛肉、じゃがいも、にんじん、玉ねぎ、トマトペースト、ブイヨン、ローリエ、黒こしょう、塩、サワークリーム、香草。"
+    },
+    "preparation": {
+      "en": "Cook the beef in broth until tender. Add chopped potatoes and cabbage. Sauté onion and carrots, add tomato paste, and transfer the mixture to the soup. Season with bay leaf, salt, and pepper. Simmer until the vegetables are tender. Serve with sour cream and fresh herbs.",
+      "ja": "牛肉をブイヨンで柔らかくなるまで煮ます。切ったじゃがいもとキャベツを加えます。玉ねぎとにんじんを炒め、トマトペーストを加えてからスープに入れます。ローリエ、塩、こしょうで味を調え、野菜が柔らかくなるまで煮込みます。サワークリームと香草を添えて提供します。"
+    }
+  },
+  "image": "Pictures/Shchi.jpeg"
+}

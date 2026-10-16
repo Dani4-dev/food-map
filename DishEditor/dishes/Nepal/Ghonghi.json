@@ -1,0 +1,29 @@
+{
+  "id": "f3a81c62-9d47-4e05-b2a6-7c9e1f4d8b30",
+  "createdAt": "2026-10-16T01:05:58+00:00",
+  "name": {
+    "en": "Ghonghi",
+    "ja": "ゴンギ（カタツムリのスパイス煮）"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Terai",
+    "city": "Bharatpur"
+  },
+  "updatedAt": "2026-10-16T02:08:20.958147+00:00",
+  "description": {
+    "en": "Ghonghi is a traditional Tharu delicacy popular in the Terai region of Nepal, including Chitwan. It is made with freshwater snails cooked in a flavorful broth with spices and herbs.",
+    "ja": "ゴンギは、チトワンを含むネパールのテライ地域で親しまれているタルー族の伝統料理です。淡水のカタツムリをスパイスやハーブと一緒に煮込んで作ります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Freshwater snails, onion, garlic, ginger, tomatoes, turmeric, chili powder, cumin, coriander, salt, and mustard oil.",
+      "ja": "淡水のカタツムリ、玉ねぎ、にんにく、しょうが、トマト、ターメリック、チリパウダー、クミン、コリアンダー、塩、からし油。"
+    },
+    "preparation": {
+      "en": "Clean the freshwater snails thoroughly and cook them safely. Prepare a spice mixture by frying onion, garlic, ginger, tomatoes, and spices in mustard oil. Add the snails and water, then simmer until fully cooked and infused with the spices.",
+      "ja": "淡水のカタツムリを十分に洗浄し、安全に加熱調理します。からし油で玉ねぎ、にんにく、しょうが、トマト、スパイスを炒めます。カタツムリと水を加え、十分に火が通り、スパイスの味が染み込むまで煮込みます。"
+    }
+  },
+  "image": "Pictures/Ghonghi.jpg"
+}

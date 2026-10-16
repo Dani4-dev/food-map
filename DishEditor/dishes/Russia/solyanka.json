@@ -1,0 +1,26 @@
+{
+  "id": "60cb3c81-844b-4cc0-a0e0-7251487297a1",
+  "createdAt": "2026-10-13T03:22:00+00:00",
+  "name": {
+    "en": "Solyanka",
+    "ja": "ソリャンカ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A rich, strongly flavored Russian soup known for its salty and sour taste. It is often made with several kinds of meat, pickled cucumbers, olives, and lemon.",
+    "ja": "塩味と酸味の強い濃厚なロシアのスープです。数種類の肉、ピクルス、オリーブ、レモンなどを使って作ることが多いです。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Beef or sausage, smoked meat, pickled cucumbers, onion, tomato paste, olives, broth, lemon, bay leaf, black pepper, and sour cream.",
+      "ja": "牛肉またはソーセージ、燻製肉、ピクルス、玉ねぎ、トマトペースト、オリーブ、ブイヨン、レモン、ローリエ、黒こしょう、サワークリーム。"
+    },
+    "preparation": {
+      "en": "Sauté onion with tomato paste, then add chopped meats and pickles. Pour in the broth and simmer with bay leaf and pepper. Add olives near the end of cooking. Serve with lemon slices and sour cream.",
+      "ja": "玉ねぎをトマトペーストと一緒に炒め、切った肉とピクルスを加えます。ブイヨンを注ぎ、ローリエとこしょうを加えて煮込みます。仕上げにオリーブを加え、レモンとサワークリームを添えて提供します。"
+    }
+  },
+  "image": "Pictures/Solyanka.jpeg"
+}

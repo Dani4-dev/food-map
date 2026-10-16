@@ -1,0 +1,29 @@
+{
+  "id": "nepali-thukpa-005",
+  "createdAt": "2026-10-13T00:00:00+00:00",
+  "updatedAt": "2026-10-13T00:00:00+00:00",
+  "name": {
+    "en": "Thukpa",
+    "ja": "トゥクパ（ネパール風ヌードルスープ）"
+  },
+  "origin": {
+    "country": "Nepal",
+    "region": "Himalayan region",
+    "city": "Kathmandu"
+  },
+  "description": {
+    "en": "Thukpa is a warming noodle soup popular in Nepal's Himalayan regions. It typically contains noodles, vegetables, broth, and sometimes chicken or other meat.",
+    "ja": "トゥクパは、ネパールのヒマラヤ地域で親しまれている温かい麺入りスープです。麺、野菜、スープを基本とし、鶏肉などを加えることもあります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Noodles, vegetable or chicken broth, carrots, cabbage, onion, garlic, ginger, soy sauce, salt, pepper, and chicken (optional).",
+      "ja": "麺、野菜または鶏肉のスープ、にんじん、キャベツ、玉ねぎ、にんにく、しょうが、しょうゆ、塩、こしょう、鶏肉（お好みで）。"
+    },
+    "preparation": {
+      "en": "Cook the noodles according to the package instructions. Sauté the onion, garlic, and ginger, then add the vegetables and broth. Simmer until the vegetables are tender, add the noodles, season, and serve hot.",
+      "ja": "麺を袋の表示どおりにゆでます。玉ねぎ、にんにく、しょうがを炒め、野菜とスープを加えます。野菜が柔らかくなるまで煮て、麺を加えて味を調え、熱いうちに盛り付けます。"
+    }
+  },
+  "image": "Pictures/Thukpa.jpg"
+}

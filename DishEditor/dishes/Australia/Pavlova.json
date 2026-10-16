@@ -1,0 +1,27 @@
+{
+  "id": "b1e6d9a3-4c72-4f85-a019-3d7c2e6b5481",
+  "createdAt": "2026-10-16T02:31:25+00:00",
+  "name": {
+    "en": "Pavlova",
+    "ja": "パブロバ"
+  },
+  "origin": {
+    "country": "AUS"
+  },
+  "updatedAt": "2026-10-16T02:47:23.241802+00:00",
+  "description": {
+    "en": "Pavlova is a meringue-based dessert with a crisp outer shell and a soft, marshmallow-like center. It is topped with whipped cream and fresh fruit. Its exact national origin is historically disputed between Australia and New Zealand.",
+    "ja": "パブロバは、外側がサクサクで中がマシュマロのように柔らかいメレンゲのデザートです。ホイップクリームと新鮮な果物をのせます。発祥についてはオーストラリアとニュージーランドの間で議論があります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Egg whites, caster sugar, cornstarch, white vinegar, vanilla extract, whipping cream, and fresh fruit such as strawberries, kiwi, and passion fruit.",
+      "ja": "卵白、細目グラニュー糖、コーンスターチ、白酢、バニラエッセンス、生クリーム、イチゴ、キウイ、パッションフルーツなどの果物。"
+    },
+    "preparation": {
+      "en": "Beat the egg whites until foamy, then gradually add sugar and beat until stiff and glossy. Fold in cornstarch, vinegar, and vanilla. Shape on a baking tray and bake at a low temperature until crisp outside. Let cool, then top with whipped cream and fresh fruit.",
+      "ja": "卵白を泡立て、砂糖を少しずつ加えながら、角が立ち、つやが出るまで泡立てます。コーンスターチ、酢、バニラを加えて混ぜます。天板の上に形を整え、低温のオーブンで外側がサクサクになるまで焼きます。冷ましてからホイップクリームと果物をのせます。"
+    }
+  },
+  "image": "Pictures/Pavlova.jpg"
+}

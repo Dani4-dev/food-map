@@ -1,0 +1,28 @@
+{
+  "id": "404c5379-fb55-42c5-a085-e3436a076c14",
+  "createdAt": "2026-10-13T03:13:00+00:00",
+  "name": {
+    "en": "Olivier Salad",
+    "ja": "オリヴィエ・サラダ"
+  },
+  "origin": {
+    "country": "RUS",
+    "region": "Moscow",
+    "city": "Moscow"
+  },
+  "description": {
+    "en": "A popular Russian salad made with diced potatoes, carrots, eggs, pickles, peas, and meat mixed with mayonnaise. It is especially common at New Year celebrations and other festive meals.",
+    "ja": "じゃがいも、にんじん、卵、ピクルス、グリーンピース、肉などを角切りにし、マヨネーズで和えたロシアで人気のサラダです。特に新年などのお祝いの食卓によく登場します。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Potatoes, carrots, eggs, pickled cucumbers, green peas, cooked chicken or sausage, mayonnaise, salt, and black pepper.",
+      "ja": "じゃがいも、にんじん、卵、ピクルス、グリーンピース、茹でた鶏肉またはソーセージ、マヨネーズ、塩、黒こしょう。"
+    },
+    "preparation": {
+      "en": "Boil the potatoes, carrots, and eggs and allow them to cool. Dice them together with the pickles and meat. Add green peas and mayonnaise, season with salt and pepper, and mix carefully. Chill before serving.",
+      "ja": "じゃがいも、にんじん、卵を茹でて冷まします。ピクルスと肉と一緒に小さな角切りにします。グリーンピースとマヨネーズを加え、塩とこしょうで味を調えてよく混ぜます。冷蔵庫で冷やしてから提供します。"
+    }
+  },
+  "image": "Pictures/Olivier Salad.jpeg"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d9a3f7b2-6c41-4e85-9b20-5f8a1c7e3d64",
+  "createdAt": "2026-10-16T01:12:04+00:00",
+  "name": {
+    "en": "Sukuti",
+    "ja": "スクティ（ネパール風干し肉）"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Lumbini Province"
+  },
+  "description": {
+    "en": "Sukuti is a traditional Nepali dish made from dried meat, commonly prepared from buffalo, goat, or other meat. It is often grilled or fried with onions, chili, garlic, and spices, making it a flavorful snack or side dish.",
+    "ja": "スクティは、水分を抜いた肉を使うネパールの伝統料理です。一般的に水牛肉やヤギ肉などで作られ、玉ねぎ、唐辛子、にんにく、スパイスと一緒に焼いたり炒めたりします。風味豊かな軽食やおかずとして親しまれています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Dried buffalo or goat meat, onion, garlic, ginger, chili powder, cumin, coriander, turmeric, salt, black pepper, lemon juice, and mustard oil.",
+      "ja": "干した水牛肉またはヤギ肉、玉ねぎ、にんにく、しょうが、チリパウダー、クミン、コリアンダー、ターメリック、塩、黒こしょう、レモン汁、からし油。"
+    },
+    "preparation": {
+      "en": "Slice the dried meat into bite-sized pieces. Heat mustard oil and sauté onion, garlic, and ginger. Add the meat and spices, then fry or grill until thoroughly heated and flavorful. Finish with lemon juice and serve hot.",
+      "ja": "干し肉を食べやすい大きさに切ります。からし油を熱し、玉ねぎ、にんにく、しょうがを炒めます。肉とスパイスを加え、十分に加熱して香ばしくなるまで炒めるか焼きます。最後にレモン汁を加え、温かいうちに提供します。"
+    }
+  },
+  "image": "Pictures/Sukuti.jpg"
+}

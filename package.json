@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "tsc -p tsconfig.app.json --noEmit --incremental false && tsc -p tsconfig.node.json --noEmit --incremental false && vite build",
+    "test": "node --test --test-concurrency=1 tests/atlas.test.mjs tests/search-suggestions.test.mjs",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
     "lint": "eslint ."

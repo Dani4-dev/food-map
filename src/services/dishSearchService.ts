@@ -175,7 +175,7 @@ export async function fetchDishesByCountry(countryName: string, language = 'en')
       return { dishes: filteredDishes }
     } catch (error) {
       const message = error instanceof Error ? error.message : 'Unable to load dishes.'
-      throw new Error(message)
+      throw new Error(message, { cause: error })
     }
   })()
 

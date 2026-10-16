@@ -1,0 +1,26 @@
+{
+  "id": "f2b8162f-ab96-43e5-b80b-64c2cb95627f",
+  "createdAt": "2026-10-13T03:24:00+00:00",
+  "name": {
+    "en": "Golubtsy",
+    "ja": "ゴルブツィ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "Cabbage rolls filled with minced meat and rice, slowly cooked in a tomato-based sauce. They are commonly served hot with sour cream.",
+    "ja": "ひき肉と米をキャベツの葉で包み、トマトベースのソースで煮込んだ料理です。通常は温かい状態でサワークリームと一緒に食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Cabbage leaves, ground beef or pork, rice, onion, carrots, tomato sauce, sour cream, salt, black pepper, and vegetable oil.",
+      "ja": "キャベツの葉、牛または豚ひき肉、米、玉ねぎ、にんじん、トマトソース、サワークリーム、塩、黒こしょう、植物油。"
+    },
+    "preparation": {
+      "en": "Soften the cabbage leaves in hot water. Mix minced meat with partially cooked rice, onion, salt, and pepper. Wrap the filling in the cabbage leaves. Place the rolls in a pot, cover with tomato sauce, and simmer until the meat and cabbage are tender.",
+      "ja": "キャベツの葉を熱湯で柔らかくします。ひき肉、半茹での米、玉ねぎ、塩、こしょうを混ぜます。具をキャベツで包み、鍋に並べてトマトソースをかけます。肉とキャベツが柔らかくなるまで煮込みます。"
+    }
+  },
+  "image": "Pictures/Golubtsy.jpeg"
+}

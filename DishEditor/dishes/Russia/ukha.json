@@ -1,0 +1,26 @@
+{
+  "id": "9ae61ce9-1808-4164-ad11-25e8258b7119",
+  "createdAt": "2026-10-13T03:28:00+00:00",
+  "name": {
+    "en": "Ukha",
+    "ja": "ウハー"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A clear Russian fish soup traditionally made from fresh fish, vegetables, herbs, and simple seasonings. It is valued for its light but aromatic broth.",
+    "ja": "新鮮な魚、野菜、香草などを使って作るロシアの澄んだ魚スープです。あっさりしながらも香り豊かなスープが特徴です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Fresh fish, potatoes, onion, carrots, water, bay leaf, black peppercorns, salt, dill, and parsley.",
+      "ja": "新鮮な魚、じゃがいも、玉ねぎ、にんじん、水、ローリエ、黒こしょう粒、塩、ディル、パセリ。"
+    },
+    "preparation": {
+      "en": "Simmer the vegetables with bay leaf and peppercorns until partly tender. Add pieces of cleaned fish and cook gently until done. Season with salt and finish with fresh dill and parsley.",
+      "ja": "野菜をローリエと黒こしょう粒と一緒に煮ます。ある程度柔らかくなったら下処理した魚を加え、弱火で火を通します。塩で味を調え、最後にディルとパセリを加えます。"
+    }
+  },
+  "image": "Pictures/Ukha.jpeg"
+}

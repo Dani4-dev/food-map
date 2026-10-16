@@ -1,0 +1,28 @@
+{
+  "id": "8d2f6a91-4c73-4e05-b8a2-1f9c7d3e6a40",
+  "createdAt": "2026-10-16T01:07:24+00:00",
+  "name": {
+    "en": "Pokhareli Thakali Thali",
+    "ja": "ポカラ風タカリ・タリ"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Gandaki Province",
+    "city": "Pokhara"
+  },
+  "description": {
+    "en": "Pokhareli Thakali Thali is a traditional Nepali-style meal popular in Pokhara. It typically includes rice, lentil soup, seasonal vegetables, pickles, and sometimes meat curry, offering a balanced combination of local flavors.",
+    "ja": "ポカラで親しまれているタカリ・タリは、ネパールの伝統的な定食スタイルの料理です。ご飯、豆のスープ、季節の野菜、漬物、肉のカレーなどを組み合わせ、さまざまな味を楽しめます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Steamed rice, lentils, seasonal vegetables, spinach, potatoes, tomato pickle, turmeric, cumin, coriander, garlic, ginger, salt, and vegetable oil. Meat curry is optional.",
+      "ja": "ご飯、レンズ豆、季節の野菜、ほうれん草、じゃがいも、トマトの漬物、ターメリック、クミン、コリアンダー、にんにく、しょうが、塩、植物油。肉のカレーはお好みで加えます。"
+    },
+    "preparation": {
+      "en": "Cook the rice and prepare lentil soup with turmeric and seasonings. Cook the vegetables with garlic, ginger, and spices. Prepare a spicy tomato pickle and optionally make a meat curry. Arrange all the dishes together on a plate and serve warm.",
+      "ja": "ご飯を炊き、ターメリックや調味料を使って豆のスープを作ります。野菜をにんにく、しょうが、スパイスと一緒に調理します。辛いトマトの漬物を用意し、お好みで肉のカレーも作ります。すべてのおかずを一皿に盛り付け、温かいうちに提供します。"
+    }
+  },
+  "image": "Pictures/Pokhareli Thakali Thali.jpg"
+}

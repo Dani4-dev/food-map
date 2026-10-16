@@ -1,0 +1,27 @@
+{
+  "id": "3e9b7c24-6d18-4a50-9f31-8c2d5e7a6049",
+  "createdAt": "2026-10-16T02:31:25+00:00",
+  "name": {
+    "en": "Anzac Biscuits",
+    "ja": "アンザックビスケット"
+  },
+  "origin": {
+    "country": "AUS"
+  },
+  "updatedAt": "2026-10-16T02:46:28.088459+00:00",
+  "description": {
+    "en": "Anzac biscuits are traditional oat biscuits made with rolled oats, flour, butter, golden syrup, sugar, and coconut. They are associated with Australian and New Zealand history and may have a chewy or crunchy texture.",
+    "ja": "アンザックビスケットは、オートミール、小麦粉、バター、ゴールデンシロップ、砂糖、ココナッツなどで作る伝統的なビスケットです。オーストラリアとニュージーランドの歴史に深く結びついており、しっとりした食感やカリッとした食感が特徴です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Rolled oats, plain flour, desiccated coconut, brown sugar, butter, golden syrup, baking soda, and hot water.",
+      "ja": "ロールドオーツ、小麦粉、乾燥ココナッツ、ブラウンシュガー、バター、ゴールデンシロップ、重曹、熱湯。"
+    },
+    "preparation": {
+      "en": "Mix the oats, flour, coconut, and brown sugar. Melt the butter with golden syrup. Dissolve the baking soda in hot water and stir it into the butter mixture. Combine the wet and dry ingredients, shape into small rounds, and bake until golden. Cool before serving.",
+      "ja": "オーツ、小麦粉、ココナッツ、ブラウンシュガーを混ぜます。バターとゴールデンシロップを溶かします。重曹を熱湯に溶かしてバターの混合物に加えます。液体と粉類を混ぜて小さな丸形にし、きつね色になるまで焼きます。冷ましてから提供します。"
+    }
+  },
+  "image": "Pictures/Anzac Biscuits.png"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "22bbca34-2b90-40b2-82f4-26ad5264845a",
+  "createdAt": "2026-10-13T03:23:00+00:00",
+  "name": {
+    "en": "Okroshka",
+    "ja": "オクローシカ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A cold Russian soup made with finely chopped vegetables, eggs, herbs, and sometimes meat. Traditional versions are commonly based on kvass, while kefir is also widely used.",
+    "ja": "細かく切った野菜、卵、香草、場合によっては肉を使ったロシアの冷たいスープです。伝統的にはクワスを使い、ケフィアを使う作り方も広く知られています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Potatoes, cucumber, radish, boiled eggs, green onion, dill, cooked meat or sausage, kvass or kefir, salt, and sour cream.",
+      "ja": "じゃがいも、きゅうり、ラディッシュ、ゆで卵、青ねぎ、ディル、茹でた肉またはソーセージ、クワスまたはケフィア、塩、サワークリーム。"
+    },
+    "preparation": {
+      "en": "Boil and cool the potatoes and eggs. Dice all solid ingredients into small pieces and mix with chopped herbs. Pour chilled kvass or kefir over the mixture, season with salt, and serve cold with sour cream.",
+      "ja": "じゃがいもと卵を茹でて冷まします。すべての具材を小さく切り、刻んだ香草と混ぜます。冷やしたクワスまたはケフィアを注ぎ、塩で味を調えます。サワークリームを添えて冷たい状態で提供します。"
+    }
+  },
+  "image": "Pictures/Okroshka.jpeg"
+}

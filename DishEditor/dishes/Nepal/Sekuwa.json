@@ -1,0 +1,27 @@
+{
+  "id": "d4a9f2c7-6b31-48e5-9c20-7f1d3a8b5642",
+  "createdAt": "2026-10-16T01:18:03+00:00",
+  "name": {
+    "en": "Sekuwa",
+    "ja": "セクワ（ネパール風炭火焼き肉）"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Lumbini Province"
+  },
+  "description": {
+    "en": "Sekuwa is a popular Nepali dish made from meat marinated with herbs, spices, and aromatics, then grilled over charcoal or an open fire. It is enjoyed as a snack or main dish and is widely available in Nepal, including Nepalgunj.",
+    "ja": "セクワは、肉をハーブやスパイス、香味野菜で漬け込み、炭火や直火で焼くネパールの人気料理です。軽食やメイン料理として親しまれ、ネパールガンジを含むネパール各地で食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Boneless chicken, goat, or pork, ginger, garlic, cumin, coriander, chili powder, turmeric, salt, black pepper, lemon juice, mustard oil, and fresh herbs.",
+      "ja": "骨なしの鶏肉、ヤギ肉、または豚肉、しょうが、にんにく、クミン、コリアンダー、チリパウダー、ターメリック、塩、黒こしょう、レモン汁、からし油、生のハーブ。"
+    },
+    "preparation": {
+      "en": "Cut the meat into bite-sized pieces. Mix with ginger, garlic, spices, lemon juice, mustard oil, and herbs. Marinate for at least 1 hour. Thread onto skewers and grill over charcoal or cook on a hot grill until thoroughly cooked and lightly charred. Serve hot with sliced onions and chutney.",
+      "ja": "肉を食べやすい大きさに切ります。しょうが、にんにく、スパイス、レモン汁、からし油、ハーブを混ぜて肉に絡め、少なくとも1時間漬け込みます。串に刺し、炭火または熱したグリルで、十分に火が通り表面に焼き色がつくまで焼きます。スライスした玉ねぎやチャツネを添えて、温かいうちに提供します。"
+    }
+  },
+  "image": "Pictures/Sekuwa.jpg"
+}

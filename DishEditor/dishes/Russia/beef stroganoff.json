@@ -1,0 +1,26 @@
+{
+  "id": "763947ca-489c-4ea4-a96c-875c94ea6b47",
+  "createdAt": "2026-10-13T03:20:00+00:00",
+  "name": {
+    "en": "Beef Stroganoff",
+    "ja": "ビーフストロガノフ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A Russian dish of tender strips of beef cooked in a rich creamy sauce, commonly prepared with onions and mushrooms and served with potatoes, noodles, or rice.",
+    "ja": "細切りの牛肉を玉ねぎやきのこと一緒に炒め、濃厚でクリーミーなソースで仕上げるロシア料理です。じゃがいも、麺、ご飯などと一緒に食べられます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Beef, onion, mushrooms, sour cream, butter or vegetable oil, flour, beef broth, mustard, salt, and black pepper.",
+      "ja": "牛肉、玉ねぎ、きのこ、サワークリーム、バターまたは植物油、小麦粉、ビーフブイヨン、マスタード、塩、黒こしょう。"
+    },
+    "preparation": {
+      "en": "Cut the beef into thin strips and quickly brown it in a hot pan. Remove the meat, then sauté onion and mushrooms. Add flour and broth and cook until slightly thickened. Stir in sour cream and mustard, return the beef to the pan, and heat gently without boiling. Season and serve hot.",
+      "ja": "牛肉を細切りにして強火でさっと焼き、一度取り出します。同じフライパンで玉ねぎときのこを炒め、小麦粉とブイヨンを加えて少しとろみをつけます。サワークリームとマスタードを加え、牛肉を戻して沸騰させないように温めます。塩とこしょうで味を調えて提供します。"
+    }
+  },
+  "image": "Pictures/Beef Stroganoff.jpeg"
+}

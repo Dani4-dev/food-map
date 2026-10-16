@@ -1,0 +1,29 @@
+{
+  "id": "nepali-sel-roti-003",
+  "createdAt": "2026-10-13T00:00:00+00:00",
+  "updatedAt": "2026-10-13T00:00:00+00:00",
+  "name": {
+    "en": "Sel Roti",
+    "ja": "セルロティ（ネパールの米粉ドーナツ）"
+  },
+  "origin": {
+    "country": "Nepal",
+    "region": "Throughout Nepal",
+    "city": "Kathmandu"
+  },
+  "description": {
+    "en": "Sel Roti is a traditional ring-shaped Nepali bread made from rice flour. It is crispy on the outside, soft inside, and commonly prepared during festivals and celebrations.",
+    "ja": "セルロティは、米粉から作るリング状の伝統的なネパールのパンです。外側はカリッとしていて、中は柔らかく、お祭りや祝い事のときによく作られます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Rice flour, sugar, milk or water, ripe banana (optional), cardamom, and cooking oil.",
+      "ja": "米粉、砂糖、牛乳または水、熟したバナナ（お好みで）、カルダモン、揚げ油。"
+    },
+    "preparation": {
+      "en": "Mix the rice flour with sugar, milk or water, and cardamom to make a thick batter. Pour it into hot oil in a circular ring shape and deep-fry until golden brown.",
+      "ja": "米粉、砂糖、牛乳または水、カルダモンを混ぜて、少し濃い生地を作ります。熱した油にリング状に流し入れ、きつね色になるまで揚げます。"
+    }
+  },
+  "image": "Pictures/Sel Roti.jpg"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "e7a3b912-5c64-4f08-a2d1-9b6e3c7f5048",
+  "createdAt": "2026-10-16T01:09:32+00:00",
+  "name": {
+    "en": "Ilam Tea",
+    "ja": "イラムティー（イラム産の紅茶）"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Koshi Province",
+    "city": "Ilam"
+  },
+  "updatedAt": "2026-10-16T02:08:38.701464+00:00",
+  "description": {
+    "en": "Ilam Tea is a famous tea produced in the green hills of eastern Nepal. It is known for its fragrant aroma, delicate flavor, and smooth taste, and is commonly enjoyed as a hot beverage.",
+    "ja": "イラムティーは、ネパール東部の緑豊かな丘陵地帯で生産される有名なお茶です。豊かな香りと繊細でまろやかな味わいが特徴で、温かい飲み物として親しまれています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Ilam tea leaves, hot water, and optional milk and sugar.",
+      "ja": "イラム産の茶葉、お湯、お好みで牛乳と砂糖。"
+    },
+    "preparation": {
+      "en": "Bring water to a boil and add the tea leaves. Steep for 3–5 minutes, then strain into a cup. Add milk or sugar if desired and serve hot.",
+      "ja": "お湯を沸かして茶葉を入れ、3～5分ほど蒸らします。茶こしでカップに注ぎ、お好みで牛乳や砂糖を加えて温かいうちに飲みます。"
+    }
+  },
+  "image": "Pictures/Ilam Tea.jpg"
+}

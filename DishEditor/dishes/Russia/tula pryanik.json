@@ -1,0 +1,28 @@
+{
+  "id": "4a413658-f894-4be8-a0ca-2ef147e07897",
+  "createdAt": "2026-10-13T03:32:00+00:00",
+  "name": {
+    "en": "Tula Pryanik",
+    "ja": "トゥーラ・プリャーニク"
+  },
+  "origin": {
+    "country": "RUS",
+    "region": "Tula Oblast",
+    "city": "Tula"
+  },
+  "description": {
+    "en": "A famous Russian printed gingerbread from Tula, traditionally decorated with embossed patterns and often filled with jam or sweetened condensed milk.",
+    "ja": "トゥーラの名物として知られるロシアの型押しジンジャーブレッドです。表面に模様や文字が入り、ジャムや加糖練乳などを詰めることがあります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Flour, honey, sugar, butter, eggs, baking soda, cinnamon and other spices, and jam or sweetened condensed milk for the filling.",
+      "ja": "小麦粉、はちみつ、砂糖、バター、卵、重曹、シナモンなどの香辛料、フィリング用のジャムまたは加糖練乳。"
+    },
+    "preparation": {
+      "en": "Warm honey, sugar, and butter, then mix with eggs and spices. Add flour and baking soda to make a firm dough. Roll out portions of dough, add the filling, cover with another layer, seal the edges, and press with a decorative mold if available. Bake until browned.",
+      "ja": "はちみつ、砂糖、バターを温め、卵と香辛料を混ぜます。小麦粉と重曹を加えてしっかりした生地を作ります。生地を伸ばし、フィリングをのせて別の生地で覆い、端を閉じます。型があれば模様を押し、焼き色がつくまで焼きます。"
+    }
+  },
+  "image": "Pictures/Tula Pryanik.jpeg"
+}

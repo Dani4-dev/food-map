@@ -1,0 +1,26 @@
+{
+  "id": "0bb31336-f824-449a-8cec-56092f490df0",
+  "createdAt": "2026-10-13T03:14:00+00:00",
+  "name": {
+    "en": "Syrniki",
+    "ja": "スィルニキ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "Small fried cottage-cheese pancakes with a soft interior and lightly browned exterior. They are commonly eaten for breakfast or dessert with sour cream, jam, honey, or fresh berries.",
+    "ja": "カッテージチーズを使って作る小さなパンケーキで、外側は香ばしく、中は柔らかい食感が特徴です。朝食やデザートとして、サワークリーム、ジャム、はちみつ、ベリーなどを添えて食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Cottage cheese or tvorog, egg, flour, sugar, vanilla sugar, salt, vegetable oil, and optional sour cream or jam for serving.",
+      "ja": "カッテージチーズまたはトヴォーログ、卵、小麦粉、砂糖、バニラシュガー、塩、植物油。好みに応じてサワークリームやジャム。"
+    },
+    "preparation": {
+      "en": "Mix the cottage cheese with egg, sugar, salt, and a small amount of flour. Shape the mixture into small patties and lightly coat them with flour. Fry in a little oil over medium heat until golden brown on both sides. Serve warm with sour cream, jam, or berries.",
+      "ja": "カッテージチーズに卵、砂糖、塩、少量の小麦粉を加えて混ぜます。小さな丸い形に整え、表面に軽く小麦粉をまぶします。少量の油を熱したフライパンで、両面がきつね色になるまで焼きます。サワークリーム、ジャム、ベリーなどを添えて温かいうちに食べます。"
+    }
+  },
+  "image": "Pictures/Syrniki.jpeg"
+}

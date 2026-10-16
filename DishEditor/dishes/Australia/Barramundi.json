@@ -1,0 +1,28 @@
+{
+  "id": "d5a8f2c1-9b47-43e6-8c10-2f6d7a9b3514",
+  "createdAt": "2026-10-16T02:31:25+00:00",
+  "name": {
+    "en": "Barramundi",
+    "ja": "バラマンディ"
+  },
+  "origin": {
+    "country": "AUS",
+    "region": "Northern Australia"
+  },
+  "updatedAt": "2026-10-16T02:46:43.225633+00:00",
+  "description": {
+    "en": "Barramundi is a popular Australian fish known for its mild flavor and tender, flaky flesh. It is commonly grilled or pan-fried and served with lemon and vegetables.",
+    "ja": "バラマンディは、淡白な味わいと柔らかくほぐれる身が特徴の、オーストラリアで親しまれている魚です。グリルやフライパンで焼き、レモンや野菜を添えて食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Barramundi fillets, olive oil, lemon, garlic, salt, black pepper, and fresh herbs such as parsley. Optional: seasonal vegetables.",
+      "ja": "バラマンディの切り身、オリーブオイル、レモン、ニンニク、塩、黒こしょう、パセリなどのハーブ。お好みで季節の野菜。"
+    },
+    "preparation": {
+      "en": "Pat the fish dry and season with salt, pepper, and minced garlic. Heat olive oil in a pan and cook the fillets skin-side down until the skin is crisp. Turn and cook until the fish flakes easily. Finish with lemon juice and herbs, then serve with vegetables.",
+      "ja": "魚の水分を拭き取り、塩、黒こしょう、刻んだニンニクで味付けします。フライパンにオリーブオイルを熱し、皮目を下にして皮がパリッとするまで焼きます。裏返して身がほぐれるまで火を通します。レモン汁とハーブを加え、野菜を添えて提供します。"
+    }
+  },
+  "image": "Pictures/Barramundi.jpg"
+}

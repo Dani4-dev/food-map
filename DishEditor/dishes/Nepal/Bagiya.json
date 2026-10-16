@@ -1,0 +1,28 @@
+{
+  "id": "c8f2a6d1-9b43-4e75-8a20-6d1f3c7e5942",
+  "createdAt": "2026-10-16T01:17:00+00:00",
+  "name": {
+    "en": "Bagiya",
+    "ja": "バギヤ（タルー族の米粉料理）"
+  },
+  "origin": {
+    "country": "NPL",
+    "region": "Madhesh Province"
+  },
+  "updatedAt": "2026-10-16T02:03:56.914906+00:00",
+  "description": {
+    "en": "Bagiya is a traditional Tharu dish popular in Nepal's eastern and central Terai regions. It is made from rice flour shaped around a savory or sweet filling and then steamed. It is especially enjoyed during festivals and family celebrations.",
+    "ja": "バギヤは、ネパール東部や中部のテライ地域で親しまれているタルー族の伝統料理です。米粉の生地で甘い具や塩味の具を包み、蒸して作ります。お祭りや家族のお祝いの際によく食べられます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Rice flour, water, salt, grated coconut or jaggery for a sweet filling, or cooked vegetables and spices for a savory filling.",
+      "ja": "米粉、水、塩、甘い具にはすりおろしたココナッツやジャガリー、塩味の具には調理した野菜やスパイス。"
+    },
+    "preparation": {
+      "en": "Mix rice flour with hot water and a little salt to make a soft dough. Prepare a sweet filling with coconut and jaggery or a savory filling with cooked vegetables and spices. Shape the dough around the filling, seal the edges, and steam until firm and fully cooked.",
+      "ja": "米粉に熱湯と少量の塩を加え、柔らかい生地を作ります。ココナッツとジャガリーで甘い具を作るか、調理した野菜とスパイスで塩味の具を用意します。生地で具を包んで口を閉じ、形が整い、中まで火が通るまで蒸します。"
+    }
+  },
+  "image": "Pictures/Bagiya.jpg"
+}

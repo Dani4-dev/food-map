@@ -1,24 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap');
 * {
   box-sizing: border-box;
 }
-
-html,
-body,
-#root {
-  height: 100%;
-  margin: 0;
-  overflow: hidden;
+:root {
+  font-family: 'DM Sans', 'Noto Sans JP', sans-serif;
+  color: #283c32;
+  background: #f6f5ef;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
 }
-
 body {
-  font-family: Arial, sans-serif;
-  background: #f7f4ef;
-  overflow: hidden;
+  margin: 0;
+  min-width: 320px;
 }
-
+button,
+input,
+select {
+  font: inherit;
+}
+button,
+select {
+  cursor: pointer;
+}
+button {
+  color: inherit;
+}
+button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+button,
+a,
+input,
+select {
+  -webkit-tap-highlight-color: transparent;
+}
+:focus-visible {
+  outline: 3px solid #cf7048;
+  outline-offset: 4px;
+}
+button {
+  transition:
+    background 0.18s,
+    color 0.18s,
+    transform 0.18s;
+}
+a {
+  color: inherit;
+}
 h1,
 h2,
 h3,
 p {
   margin-top: 0;
+}
+button:hover:not(:disabled) {
+  filter: brightness(0.96);
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition: none !important;
+    animation: none !important;
+  }
 }

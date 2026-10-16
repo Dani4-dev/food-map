@@ -1,0 +1,26 @@
+{
+  "id": "665c5313-36da-4e66-9022-d26e774da544",
+  "createdAt": "2026-10-13T03:01:51.959619+00:00",
+  "name": {
+    "en": "Borscht",
+    "ja": "ボルシチ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A hearty beet-based soup commonly prepared with cabbage, potatoes, carrots, onions, and meat. It is known for its deep red color and rich, slightly sweet and sour flavor, and is often served with sour cream and fresh herbs.",
+    "ja": "ビーツをベースに、キャベツ、じゃがいも、にんじん、玉ねぎ、肉などを煮込んで作る具だくさんのスープです。鮮やかな赤色と、甘みと酸味のある濃厚な味わいが特徴で、サワークリームや香草を添えて食べることもあります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Beets, beef, cabbage, potatoes, carrots, onion, tomato paste, garlic, broth or water, vegetable oil, bay leaf, salt, black pepper, vinegar or lemon juice, sour cream, and fresh dill.",
+      "ja": "ビーツ、牛肉、キャベツ、じゃがいも、にんじん、玉ねぎ、トマトペースト、にんにく、ブイヨンまたは水、植物油、ローリエ、塩、黒こしょう、酢またはレモン汁、サワークリーム、ディル。"
+    },
+    "preparation": {
+      "en": "Cook the beef in water or broth until tender. Chop the vegetables and sauté the onion, carrots, and beets with tomato paste. Add the potatoes and cabbage to the broth, followed by the sautéed vegetables. Season with garlic, bay leaf, salt, pepper, and a small amount of vinegar or lemon juice. Simmer until the vegetables are tender. Serve hot with sour cream and fresh dill.",
+      "ja": "牛肉を水またはブイヨンで柔らかくなるまで煮ます。野菜を切り、玉ねぎ、にんじん、ビーツをトマトペーストと一緒に炒めます。スープにじゃがいもとキャベツを加え、その後に炒めた野菜を入れます。にんにく、ローリエ、塩、こしょう、少量の酢またはレモン汁で味を調え、野菜が柔らかくなるまで煮込みます。サワークリームとディルを添えて温かいうちに提供します。"
+    }
+  },
+  "image": "Pictures/Borscht.jpeg"
+}

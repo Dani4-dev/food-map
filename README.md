@@ -1,190 +1,95 @@
-# FoodMap - 世界の料理地図
+# FoodMap — World Food Atlas / 世界の料理アトラス
 
-デプロイ済みプロジェクト: https://dani4-dev.github.io/food-map/
+An interactive culinary atlas built with React, TypeScript, Vite, and Leaflet.
+The website reads the bilingual dish records maintained by the Python/Tkinter desktop editor.
+
+## Development
+
+```sh
+npm install
+npm run dev
+npm test
+npm run lint
+npm run build
+npm run preview
+```
+
+The build checks TypeScript before producing the website. Deployment is a separate,
+explicit action; the configured GitHub Pages base path is `/food-map/`.
+
+## Explore
+
+- Select countries on the world map.
+- At zoom 5–8, clicking the map selects a region; at zoom 9+, it selects a city or town.
+- Search by country, region, city, or English/Japanese dish name. Submit geographic searches
+  using the search button or Enter. Local place suggestions do not send network requests.
+- Suggestions appear while typing: all countries plus dishes, regions, and cities from
+  the local collection. Select with a click or ↑/↓ and Enter; Escape closes the menu.
+- Use the region/city filters to browse places represented in the dish collection.
+- Browse up to ten dishes per page. On desktop the card grid scrolls independently.
+- Open a card's recipe for its description, origin, ingredients, and preparation.
+- Use a card's map button to navigate to its recorded origin.
+- Switch the interface and dish text between English and Japanese.
+
+Country outlines load from `johan/world.geo.json`; map tiles come from OpenStreetMap.
+Regions and cities are identified by Nominatim reverse geocoding rather than a bundled
+worldwide subdivision database. Results depend on OpenStreetMap coverage.
+Geographic lookups use English names to match the origin names in the dish JSON.
+Different spellings in JSON may need correction to match a geographic result.
+The local filters remain available without geocoding.
+
+Nominatim requests are serialized, cached in memory, and spaced at least 1.1 seconds apart.
+The public service is suitable for modest use, not high-traffic deployment:
+[Nominatim usage policy](https://operations.osmfoundation.org/policies/nominatim/).
+Configure another provider in `src/services/geographyService.ts` when scaling.
+UI labels and local dish search work without these services, but map tiles, geographic
+lookups, and web fonts require an internet connection.
+
+## Source structure
+
+- `src/App.tsx`: search, location selection, filters, and recipe state.
+- `src/components/WorldMap.tsx`: map, zoom-dependent selection, and selection marker.
+- `src/components/FoodPanel.tsx`: card grid and pagination.
+- `src/components/DishCard.tsx`, `DishDetails.tsx`: dish preview and accessible recipe dialog.
+- `src/services/dishService.ts`: local filtering, bilingual search, and recipe projection.
+- `src/services/geographyService.ts`: geographic search, reverse lookup, and request queue.
+- `src/data/foodDatabase.ts`: Vite imports of the editor's JSON and images.
+- `src/data/countries.json`: ISO alpha-2/alpha-3 country lookup.
+- `src/i18n/`: English/Japanese translations and localized country names.
+- `DishEditor/`: desktop editor, views, forms, and location services.
+- `tests/atlas.test.mjs`: data, search, origin filtering, and localization checks.
+
+The older Wikipedia/Wikidata services and `src/data/foodDatabase.json` are retained
+for compatibility and are not used by the current browsing experience.
+
+## Dish records and images
+
+Store one record per `DishEditor/dishes/<country folder>/*.json`.
+Use ISO 3166-1 alpha-3 for `origin.country`, for example `RUS`, `NPL`, or `JPN`.
+The loader also recognizes alpha-2 codes and standard English country names for
+compatibility, converting them to alpha-3 in memory without rewriting the JSON.
+
+Records support `id`, localized `name` and `description`, `origin.country`,
+`origin.region`, `origin.city`, `recipe.ingredients`, `recipe.preparation`,
+and a relative `image` path such as `Pictures/Tula Pryanik.jpeg`.
+English and Japanese are optional independently; missing or empty text falls back
+to the other language. Unavailable recipe sections show an explanatory message.
+
+Put pictures in `DishEditor/dishes/Pictures/`. File names, spaces, case, and extensions
+must match the JSON path exactly. Cards use a fixed image height and `object-fit: cover`;
+missing pictures receive a decorative placeholder.
+
+The website bundles data and pictures at build time. Rebuild after editing records.
+The packaged editor stores dishes beside its executable; copy those records and
+pictures into the source data directory before building the website.
 
 ## 日本語
 
-### 概要
+地図で国を選び、拡大すると地域や都市をクリックして郷土料理を探せます。
+国・地域・都市・料理名で検索でき、料理は1ページに最大10件表示されます。
+カードから材料・作り方を含むレシピを開けます。
+地域・都市の特定には外部サービスを利用するため、インターネット接続が必要です。
 
-FoodMapは、インタラクティブな世界地図を使って、各国・地域の代表的な料理を探索するWebアプリケーションです。
-
-地図上の国をクリックするだけで、その地域の料理がリアルタイムで表示されます。Wikidataから正確な料理情報を取得し、料理名、説明、画像を表示します。
-
-### 特徴
-
-- **インタラクティブな地図**: Leafletを使用した直感的な世界地図
-- **Wikidataベースのデータ**: 信頼できる構造化されたデータソース
-- **多言語対応**: 日本語と英語でUIと料理情報を表示
-- **高速キャッシング**: ローカルストレージを使用した連続検索の最適化
-- **レスポンシブデザイン**: モバイルデバイスにも対応
-
-### 技術スタック
-
-- **フロントエンド**: React 18 + TypeScript
-- **ビルドツール**: Vite
-- **地図**: Leaflet + react-leaflet
-- **データ取得**: axios + Wikidata SPARQL API
-- **ローカライズ**: react-i18next
-- **キャッシング**: localStorage
-
-### セットアップ
-
-```bash
-# リポジトリをクローン
-git clone https://github.com/your-repo/foodmap.git
-cd foodmap
-
-# 依存関係をインストール
-npm install
-
-# 開発サーバーを起動
-npm run dev
-
-# 本番ビルド
-npm run build
-
-# ビルド結果をプレビュー
-npm run preview
-```
-
-### 使い方
-
-1. ウェブアプリを開く
-2. 地図上の国をクリック
-3. 右側のパネルに該当国の料理リストが表示される
-4. 言語ボタンで日本語/英語を切り替え可能
-
-### キャッシング仕様
-
-- 検索結果は7日間ローカルストレージに保存
-- 同じ国を再度選択した場合、キャッシュからデータを取得
-- インメモリキャッシュにより、同時リクエストを1つに統合
-
-### プロジェクト構成
-
-```
-src/
-├── components/
-│   ├── WorldMap.tsx        # 地図コンポーネント
-│   ├── FoodPanel.tsx       # 料理パネル
-│   └── DishCard.tsx        # 料理カードコンポーネント
-├── services/
-│   ├── dishSearchService.ts # Wikidata検索ロジック
-│   └── cacheService.ts      # キャッシング管理
-├── types/
-│   └── food.ts              # 型定義
-├── i18n/
-│   ├── config.ts            # i18n設定
-│   ├── locales/
-│   │   ├── en.json          # 英語翻訳
-│   │   └── ja.json          # 日本語翻訳
-│   └── regionNames.ts       # 地域名の翻訳
-├── App.tsx                  # メインアプリケーション
-└── main.tsx                 # エントリポイント
-```
-
-### 検索アルゴリズム
-
-1. 選択された国をWikidata内で検索
-2. SPARQL クエリで以下の条件を満たす料理を抽出:
-   - P495 (発祥国) が選択国と一致
-   - P31 (分類) が食べ物/料理のサブクラス
-3. 取得結果を検証 (有効なラベル、説明、画像)
-4. 結果を最大8件まで返す
-
----
-
----
-
-# FoodMap - World Food Map
-
-## English
-
-### Overview
-
-FoodMap is a web application that lets you explore representative dishes from countries and regions around the world using an interactive map.
-
-Simply click on a country on the map to instantly see the regional cuisine. It retrieves accurate food information from Wikidata and displays dish names, descriptions, and images.
-
-### Features
-
-- **Interactive Map**: Intuitive world map powered by Leaflet
-- **Wikidata-based Data**: Reliable, structured data source
-- **Multilingual Support**: UI and dish information in Japanese and English
-- **Fast Caching**: Optimized repeated searches using localStorage
-- **Responsive Design**: Works on mobile devices
-
-### Technology Stack
-
-- **Frontend**: React 18 + TypeScript
-- **Build Tool**: Vite
-- **Map**: Leaflet + react-leaflet
-- **Data Fetching**: axios + Wikidata SPARQL API
-- **Localization**: react-i18next
-- **Caching**: localStorage
-
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/your-repo/foodmap.git
-cd foodmap
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
-```
-
-### Usage
-
-1. Open the web app
-2. Click on a country on the map
-3. The food list for that country appears in the right panel
-4. Toggle between Japanese and English using the language button
-
-### Caching Specification
-
-- Search results are stored in localStorage for 7 days
-- When selecting the same country again, data is retrieved from cache
-- In-memory caching consolidates simultaneous requests into one
-
-### Project Structure
-
-```
-src/
-├── components/
-│   ├── WorldMap.tsx        # Map component
-│   ├── FoodPanel.tsx       # Food panel
-│   └── DishCard.tsx        # Dish card component
-├── services/
-│   ├── dishSearchService.ts # Wikidata search logic
-│   └── cacheService.ts      # Cache management
-├── types/
-│   └── food.ts              # Type definitions
-├── i18n/
-│   ├── config.ts            # i18n configuration
-│   ├── locales/
-│   │   ├── en.json          # English translations
-│   │   └── ja.json          # Japanese translations
-│   └── regionNames.ts       # Region name translations
-├── App.tsx                  # Main application
-└── main.tsx                 # Entry point
-```
-
-### Search Algorithm
-
-1. Search for the selected country in Wikidata
-2. Extract dishes using SPARQL queries with these criteria:
-   - P495 (country of origin) matches the selected country
-   - P31 (instance of) is a subclass of food/dish
-3. Validate results (valid labels, descriptions, images)
-4. Return up to 8 results
-
+料理データは `DishEditor/dishes/<国フォルダー>/*.json` に保存します。
+国コードには ISO alpha-3 を使用し、画像パスは実際のファイル名と一致させてください。
+データを変更した後はウェブサイトを再ビルドしてください。

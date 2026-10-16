@@ -1,0 +1,26 @@
+{
+  "id": "bfb1a839-c401-4f92-a897-6d32c24f3d48",
+  "createdAt": "2026-10-13T03:25:00+00:00",
+  "name": {
+    "en": "Kulebyaka",
+    "ja": "クレビャーカ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A large traditional Russian savory pie with a rich filling that may include fish, meat, rice, mushrooms, cabbage, or eggs.",
+    "ja": "魚、肉、米、きのこ、キャベツ、卵などの具をたっぷり詰めて焼くロシアの伝統的な大きなパイです。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Yeast or puff pastry dough, salmon or other fish, rice, boiled eggs, mushrooms, onion, butter, salt, and black pepper.",
+      "ja": "イースト生地またはパイ生地、サーモンなどの魚、米、ゆで卵、きのこ、玉ねぎ、バター、塩、黒こしょう。"
+    },
+    "preparation": {
+      "en": "Prepare the filling ingredients separately and allow them to cool. Roll out the dough and arrange the filling in layers. Fold the dough around the filling and seal the edges. Brush with egg and bake until the crust is deeply golden.",
+      "ja": "具材をそれぞれ調理して冷まします。生地を伸ばし、具材を層になるように並べます。生地で包んで端を閉じ、表面に卵を塗って濃いきつね色になるまで焼きます。"
+    }
+  },
+  "image": "Pictures/Kulebyaka.jpeg"
+}

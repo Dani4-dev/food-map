@@ -1,0 +1,26 @@
+{
+  "id": "30db394b-5029-48a2-bf58-f41a28ea5bd2",
+  "createdAt": "2026-10-13T03:30:00+00:00",
+  "name": {
+    "en": "Medovik",
+    "ja": "メドヴィク"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A layered Russian honey cake made from thin honey-flavored cake layers and a soft cream filling. After resting, the layers absorb the cream and become tender.",
+    "ja": "はちみつ風味の薄い生地とクリームを何層にも重ねて作るロシアのケーキです。時間を置くことで生地がクリームを吸い、柔らかな食感になります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Flour, honey, sugar, eggs, butter, baking soda, sour cream or heavy cream, and powdered sugar.",
+      "ja": "小麦粉、はちみつ、砂糖、卵、バター、重曹、サワークリームまたは生クリーム、粉砂糖。"
+    },
+    "preparation": {
+      "en": "Warm honey, sugar, and butter, then mix in eggs and baking soda. Add flour to form a soft dough. Divide into thin layers and bake each separately. Prepare the cream, spread it between the cooled layers, and refrigerate the assembled cake for several hours or overnight.",
+      "ja": "はちみつ、砂糖、バターを温め、卵と重曹を加えます。小麦粉を加えて柔らかい生地を作り、薄く分けてそれぞれ焼きます。クリームを作って冷ました生地の間に塗り、数時間から一晩冷蔵庫で休ませます。"
+    }
+  },
+  "image": "Pictures/Medovik.jpeg"
+}

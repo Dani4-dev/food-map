@@ -1,0 +1,26 @@
+{
+  "id": "bf87e89c-2648-44f3-ad31-77ad43c72e92",
+  "createdAt": "2026-10-13T03:12:00+00:00",
+  "name": {
+    "en": "Blini",
+    "ja": "ブリヌイ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "Thin Russian pancakes traditionally made from a simple batter and cooked until lightly golden. They can be served with sweet or savory toppings such as sour cream, jam, honey, caviar, or smoked fish.",
+    "ja": "薄い生地を焼いて作るロシアの伝統的なパンケーキです。サワークリーム、ジャム、はちみつ、イクラ、燻製魚など、甘いものから塩味のものまでさまざまな具材と一緒に食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Flour, milk, eggs, sugar, salt, vegetable oil or butter, and optional sour cream, jam, honey, caviar, or smoked salmon for serving.",
+      "ja": "小麦粉、牛乳、卵、砂糖、塩、植物油またはバター。好みに応じてサワークリーム、ジャム、はちみつ、イクラ、スモークサーモンなど。"
+    },
+    "preparation": {
+      "en": "Whisk the eggs with milk, sugar, and salt. Gradually add flour and mix until smooth, then add a little oil. Pour a thin layer of batter into a hot frying pan and cook both sides until lightly golden. Serve warm with the topping of your choice.",
+      "ja": "卵、牛乳、砂糖、塩を混ぜます。小麦粉を少しずつ加えて滑らかな生地にし、少量の油を加えます。熱したフライパンに生地を薄く広げ、両面を薄いきつね色になるまで焼きます。好みのトッピングを添えて温かいうちに食べます。"
+    }
+  },
+  "image": "Pictures/Blini.jpeg"
+}

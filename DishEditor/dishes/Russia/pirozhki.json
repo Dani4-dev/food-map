@@ -1,0 +1,26 @@
+{
+  "id": "bde289be-d24f-4127-9e59-ae420850a870",
+  "createdAt": "2026-10-13T03:21:00+00:00",
+  "name": {
+    "en": "Pirozhki",
+    "ja": "ピロシキ"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "Small stuffed buns that can be baked or fried. Common fillings include minced meat, cabbage, potatoes, mushrooms, eggs, or sweet fruit.",
+    "ja": "肉、キャベツ、じゃがいも、きのこ、卵、果物などの具を生地で包み、焼いたり揚げたりして作るロシアの小さなパンです。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Flour, milk or water, yeast, egg, sugar, salt, butter or oil, and a filling such as minced meat, cabbage, potatoes, or mushrooms.",
+      "ja": "小麦粉、牛乳または水、イースト、卵、砂糖、塩、バターまたは油。具材としてひき肉、キャベツ、じゃがいも、きのこなど。"
+    },
+    "preparation": {
+      "en": "Prepare a yeast dough and allow it to rise. Divide it into small portions and flatten each piece. Place the filling in the center, seal the edges, and shape into small buns. Bake until golden or fry in oil until browned on both sides.",
+      "ja": "イースト生地を作って発酵させます。小分けにして平らに伸ばし、中央に具をのせて包みます。形を整え、オーブンで焼くか油で両面がきつね色になるまで揚げます。"
+    }
+  },
+  "image": "Pictures/Pirozhki.jpeg"
+}

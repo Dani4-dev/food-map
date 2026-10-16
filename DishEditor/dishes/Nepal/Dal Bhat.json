@@ -1,0 +1,29 @@
+{
+  "id": "nepali-dal-bhat-002",
+  "createdAt": "2026-10-13T00:00:00+00:00",
+  "updatedAt": "2026-10-13T00:00:00+00:00",
+  "name": {
+    "en": "Dal Bhat",
+    "ja": "ダルバート"
+  },
+  "origin": {
+    "country": "Nepal",
+    "region": "Throughout Nepal",
+    "city": "Kathmandu"
+  },
+  "description": {
+    "en": "Dal Bhat is a traditional Nepali meal consisting of steamed rice, lentil soup, vegetables, and often pickles or curry. It is a staple food in Nepal.",
+    "ja": "ダルバートは、ご飯、豆のスープ、野菜のおかずなどを組み合わせたネパールの伝統的な食事です。漬物やカレーを添えることも多く、ネパールで広く食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Rice, lentils, water, turmeric, salt, garlic, ginger, cumin, seasonal vegetables, and vegetable oil.",
+      "ja": "米、レンズ豆、水、ターメリック、塩、にんにく、しょうが、クミン、季節の野菜、植物油。"
+    },
+    "preparation": {
+      "en": "Cook the rice separately. Boil the lentils with turmeric and salt, then season with fried garlic, ginger, and cumin. Cook the vegetables with spices and serve everything together.",
+      "ja": "米を炊きます。レンズ豆をターメリックと塩で煮て、炒めたにんにく、しょうが、クミンで味を調えます。野菜をスパイスと一緒に調理し、すべてを一皿に盛り付けます。"
+    }
+  },
+  "image": "Pictures/Dal Bhat.jpg"
+}

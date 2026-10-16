@@ -1,0 +1,26 @@
+{
+  "id": "a8c830b4-4e88-498c-858e-a23977ef3665",
+  "createdAt": "2026-10-13T03:26:00+00:00",
+  "name": {
+    "en": "Rassolnik",
+    "ja": "ラッソーリニク"
+  },
+  "origin": {
+    "country": "RUS"
+  },
+  "description": {
+    "en": "A traditional Russian soup with pickled cucumbers and their brine, giving it a characteristic salty and sour flavor. Barley and meat are commonly included.",
+    "ja": "ピクルスとその漬け汁を使い、独特の塩味と酸味を持たせたロシアの伝統的なスープです。大麦や肉を加えることが多いです。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Beef, pearl barley, pickled cucumbers, cucumber brine, potatoes, carrots, onion, broth, bay leaf, salt, black pepper, and sour cream.",
+      "ja": "牛肉、押し麦、ピクルス、ピクルスの漬け汁、じゃがいも、にんじん、玉ねぎ、ブイヨン、ローリエ、塩、黒こしょう、サワークリーム。"
+    },
+    "preparation": {
+      "en": "Cook the beef and barley in broth until nearly tender. Add potatoes, sautéed onion and carrots, then chopped pickles. Pour in a small amount of pickle brine and simmer until everything is cooked. Serve with sour cream.",
+      "ja": "牛肉と押し麦をブイヨンで柔らかくなるまで煮ます。じゃがいもと炒めた玉ねぎ、にんじんを加え、さらに刻んだピクルスを入れます。少量の漬け汁を加えて煮込み、サワークリームを添えて提供します。"
+    }
+  },
+  "image": "Pictures/Rassolnik.jpeg"
+}
