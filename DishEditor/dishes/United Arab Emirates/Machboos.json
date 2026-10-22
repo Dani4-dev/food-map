@@ -1,0 +1,28 @@
+{
+  "id": "a12e7f31-8b45-4c92-a613-5d8e9f2b7041",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Machboos",
+    "ja": "アル・マクブース"
+  },
+  "origin": {
+    "country": "ARE",
+    "city": "Dubai"
+  },
+  "updatedAt": "2026-10-22T02:24:20.174145+00:00",
+  "description": {
+    "en": "A traditional Emirati rice dish cooked with spiced meat, onions, and aromatic spices. It is popular for family meals and celebrations.",
+    "ja": "肉、玉ねぎ、香辛料を使って作る、アラブ首長国連邦の伝統的な炊き込みご飯です。家族の食事やお祝いのときによく食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Rice, chicken or lamb, onion, garlic, tomatoes, cardamom, cinnamon, salt, and oil.",
+      "ja": "米、鶏肉または羊肉、玉ねぎ、にんにく、トマト、カルダモン、シナモン、塩、油。"
+    },
+    "preparation": {
+      "en": "Cook the onion, garlic, and meat with spices. Add tomatoes and water, then simmer until the meat is tender. Add rice and cook until the rice absorbs the broth. Serve hot.",
+      "ja": "玉ねぎ、にんにく、肉を香辛料と一緒に炒めます。トマトと水を加え、肉が柔らかくなるまで煮ます。米を加え、スープの味がしみ込むまで炊きます。温かいうちに食べます。"
+    }
+  },
+  "image": "Pictures/Machboos.jpg"
+}

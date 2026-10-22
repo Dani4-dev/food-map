@@ -1,0 +1,28 @@
+{
+  "id": "b32d8e95-0a43-4f76-c219-7a4b3d8e6f02",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Gazpacho",
+    "ja": "ガスパチョ"
+  },
+  "origin": {
+    "country": "ESP",
+    "region": "Andalusia"
+  },
+  "updatedAt": "2026-10-22T01:00:23.481381+00:00",
+  "description": {
+    "en": "A refreshing cold soup from southern Spain made mainly with tomatoes and fresh vegetables.",
+    "ja": "スペイン南部のアンダルシア地方で親しまれている冷製スープです。トマトや新鮮な野菜を主な材料として作ります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Tomatoes, cucumber, green pepper, garlic, olive oil, vinegar, and salt.",
+      "ja": "トマト、きゅうり、ピーマン、にんにく、オリーブオイル、酢、塩。"
+    },
+    "preparation": {
+      "en": "Chop the vegetables and blend them with olive oil, vinegar, and salt. Refrigerate until cold and serve.",
+      "ja": "野菜を切り、オリーブオイル、酢、塩と一緒にミキサーで混ぜます。冷蔵庫で冷やしてから提供します。"
+    }
+  },
+  "image": "Pictures/Gazpacho.jpg"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "5e0f3b74-9d86-4013-bc45-8f2d4e0a6b97",
+  "createdAt": "2026-10-16T02:20:00+00:00",
+  "name": {
+    "en": "Phaksha Paa",
+    "ja": "パクシャ・パー"
+  },
+  "origin": {
+    "country": "BTN"
+  },
+  "updatedAt": "2026-10-22T00:45:21.122382+00:00",
+  "description": {
+    "en": "A popular Bhutanese pork dish cooked with red chili peppers and vegetables such as radish. It is known for its spicy flavor and is commonly eaten with rice.",
+    "ja": "豚肉を赤唐辛子や大根などの野菜と一緒に調理するブータンの人気料理です。辛い味が特徴で、ご飯と一緒によく食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Pork, dried red chili peppers, radish, onion, garlic, ginger, water, salt, and oil.",
+      "ja": "豚肉、乾燥赤唐辛子、大根、玉ねぎ、にんにく、しょうが、水、塩、油。"
+    },
+    "preparation": {
+      "en": "Cut the pork and vegetables into pieces. Fry the pork with onion, garlic, and ginger. Add radish, chili peppers, water, and salt. Simmer until the pork is tender and the flavors combine.",
+      "ja": "豚肉と野菜を食べやすい大きさに切ります。豚肉、玉ねぎ、にんにく、しょうがを炒めます。大根、唐辛子、水、塩を加え、豚肉が柔らかくなって味がなじむまで煮ます。"
+    }
+  },
+  "image": "Pictures/Phaksha Paa.jpg"
+}

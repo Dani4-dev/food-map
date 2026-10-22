@@ -1,0 +1,29 @@
+{
+  "id": "326a0b13-4d85-4f97-a048-2e1b5c7d9306",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Xiaolongbao",
+    "ja": "小籠包（ショウロンポウ）"
+  },
+  "origin": {
+    "country": "CHN",
+    "region": "Jiangnan",
+    "city": "Shanghai"
+  },
+  "updatedAt": "2026-10-22T02:26:48.718679+00:00",
+  "description": {
+    "en": "Small steamed dumplings filled with seasoned meat and hot soup. They are especially popular in Shanghai and are usually eaten carefully while hot.",
+    "ja": "味付けした肉と熱いスープが入った小さな蒸し餃子です。特に上海で人気があり、熱いうちに気をつけながら食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Wheat flour, ground pork, ginger, spring onions, soy sauce, sesame oil, and gelatin-rich broth.",
+      "ja": "小麦粉、豚ひき肉、しょうが、ねぎ、しょうゆ、ごま油、ゼラチン質の多いスープ。"
+    },
+    "preparation": {
+      "en": "Prepare dough from flour and water. Mix ground pork with ginger, spring onions, soy sauce, and sesame oil. Add chilled broth jelly to the filling, wrap it in small pieces of dough, and steam until cooked.",
+      "ja": "小麦粉と水で生地を作ります。豚ひき肉にしょうが、ねぎ、しょうゆ、ごま油を混ぜます。冷やして固めたスープを具に加え、小さく切った生地で包み、火が通るまで蒸します。"
+    }
+  },
+  "image": "Pictures/Xiaolongbao.jpg"
+}

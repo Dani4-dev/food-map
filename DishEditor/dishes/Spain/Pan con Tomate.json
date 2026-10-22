@@ -1,0 +1,28 @@
+{
+  "id": "e65a1bc8-3d76-429a-f54c-0d7e6a1b9235",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Pan con Tomate",
+    "ja": "パン・コン・トマテ"
+  },
+  "origin": {
+    "country": "ESP",
+    "region": "Catalonia"
+  },
+  "updatedAt": "2026-10-22T01:00:42.245777+00:00",
+  "description": {
+    "en": "A traditional Catalan dish made with toasted bread, fresh tomato, olive oil, and salt.",
+    "ja": "焼いたパンに新鮮なトマト、オリーブオイル、塩を合わせたカタルーニャ地方の伝統料理です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Rustic bread, ripe tomatoes, olive oil, salt, and optional garlic.",
+      "ja": "パン、熟したトマト、オリーブオイル、塩、お好みでにんにく。"
+    },
+    "preparation": {
+      "en": "Toast the bread. Rub it with garlic if desired, then spread ripe tomato over it. Add olive oil and salt before serving.",
+      "ja": "パンを焼きます。お好みでにんにくをこすりつけ、熟したトマトを塗ります。オリーブオイルと塩をかけて完成です。"
+    }
+  },
+  "image": "Pictures/Pan con Tomate.jpg"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3c8d1f52-7b64-4e91-9a23-6d0b2f8c4e75",
+  "createdAt": "2026-10-16T02:10:00+00:00",
+  "name": {
+    "en": "Shamu Datshi",
+    "ja": "シャム・ダツィ"
+  },
+  "origin": {
+    "country": "BTN"
+  },
+  "updatedAt": "2026-10-22T00:44:03.061412+00:00",
+  "description": {
+    "en": "A Bhutanese dish prepared with mushrooms and cheese. It has a rich, creamy texture and is often seasoned with chili peppers.",
+    "ja": "きのことチーズを使ったブータン料理です。濃厚でクリーミーな味が特徴で、唐辛子を加えて作ることもあります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Mushrooms, cheese, onion, garlic, chili peppers, water, salt, and butter.",
+      "ja": "きのこ、チーズ、玉ねぎ、にんにく、唐辛子、水、塩、バター。"
+    },
+    "preparation": {
+      "en": "Wash and slice the mushrooms. Cook onion and garlic in butter. Add the mushrooms, chili peppers, water, and salt. Simmer until tender, then add cheese and cook until it melts.",
+      "ja": "きのこを洗って切ります。バターで玉ねぎとにんにくを炒めます。きのこ、唐辛子、水、塩を加えて煮ます。きのこが柔らかくなったらチーズを加え、溶けるまで煮ます。"
+    }
+  },
+  "image": "Pictures/Shamu Datshi.jpg"
+}

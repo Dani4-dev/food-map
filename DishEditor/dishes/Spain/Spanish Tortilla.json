@@ -1,0 +1,27 @@
+{
+  "id": "a21c7f84-9d32-4e65-b108-6f3a2c9d7e51",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Spanish Tortilla",
+    "ja": "トルティージャ・エスパニョーラ"
+  },
+  "origin": {
+    "country": "ESP"
+  },
+  "updatedAt": "2026-10-22T01:01:29.546863+00:00",
+  "description": {
+    "en": "A traditional Spanish omelette made with potatoes and eggs. It is thick, soft, and commonly served as a snack or meal.",
+    "ja": "じゃがいもと卵で作るスペインの伝統的なオムレツです。厚みがあり、柔らかく、軽食や食事としてよく食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Potatoes, eggs, olive oil, salt, and optional onions.",
+      "ja": "じゃがいも、卵、オリーブオイル、塩、お好みで玉ねぎ。"
+    },
+    "preparation": {
+      "en": "Slice the potatoes and cook them in olive oil until soft. Mix them with beaten eggs and salt. Pour into a pan and cook both sides until set.",
+      "ja": "じゃがいもを薄く切り、オリーブオイルで柔らかくなるまで加熱します。溶き卵と塩を混ぜ、フライパンに入れて両面を焼きます。"
+    }
+  },
+  "image": "Pictures/Spanish Tortilla.jpg"
+}

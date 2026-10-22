@@ -1,0 +1,28 @@
+{
+  "id": "f67dce86-d09a-4147-b168-ac3d5e7f2596",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Madrooba",
+    "ja": "マドルーバ"
+  },
+  "origin": {
+    "country": "ARE",
+    "city": "Dubai"
+  },
+  "updatedAt": "2026-10-22T02:25:55.035329+00:00",
+  "description": {
+    "en": "A traditional Emirati dish made with fish or chicken, spices, and a thick wheat-based mixture. It has a soft texture and is often eaten during Ramadan.",
+    "ja": "魚や鶏肉、香辛料、小麦を使って作るアラブ首長国連邦の伝統料理です。とろみのある柔らかい食感で、ラマダンの時期にもよく食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Fish or chicken, wheat flour, onion, garlic, spices, water, and salt.",
+      "ja": "魚または鶏肉、小麦粉、玉ねぎ、にんにく、香辛料、水、塩。"
+    },
+    "preparation": {
+      "en": "Cook the fish or chicken with onion, garlic, spices, and water. Add wheat flour gradually while stirring. Simmer and stir until the mixture becomes thick and smooth.",
+      "ja": "魚または鶏肉を玉ねぎ、にんにく、香辛料、水と一緒に煮ます。混ぜながら小麦粉を少しずつ加えます。とろみがつき、なめらかになるまで煮込みます。"
+    }
+  },
+  "image": "Pictures/Madrooba.jpg"
+}

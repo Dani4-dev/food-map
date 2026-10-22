@@ -1,0 +1,28 @@
+{
+  "id": "e56cbd75-cf89-4036-a057-9b2c4d6f1485",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Balaleet",
+    "ja": "バラリート"
+  },
+  "origin": {
+    "country": "ARE",
+    "city": "Dubai"
+  },
+  "updatedAt": "2026-10-22T02:24:45.063850+00:00",
+  "description": {
+    "en": "A traditional Emirati dish combining sweet vermicelli noodles flavored with cardamom and saffron, often topped with an omelet. It is commonly eaten for breakfast.",
+    "ja": "カルダモンやサフランで香りをつけた甘い細い麺に、オムレツをのせる伝統的な料理です。朝食によく食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Vermicelli noodles, sugar, butter, cardamom, saffron, eggs, and salt.",
+      "ja": "細い麺、砂糖、バター、カルダモン、サフラン、卵、塩。"
+    },
+    "preparation": {
+      "en": "Boil the vermicelli until tender and drain it. Mix with butter, sugar, cardamom, and saffron. Prepare a thin omelet separately and place it over the noodles before serving.",
+      "ja": "細い麺を柔らかくなるまでゆで、水を切ります。バター、砂糖、カルダモン、サフランを混ぜます。別に薄いオムレツを作り、麺の上にのせて食べます。"
+    }
+  },
+  "image": "Pictures/Balaleet.jpg"
+}

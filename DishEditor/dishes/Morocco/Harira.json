@@ -1,0 +1,27 @@
+{
+  "id": "a83d6c20-5f91-47b8-9e34-2d7a6c1f5082",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Harira",
+    "ja": "ハリラ"
+  },
+  "origin": {
+    "country": "MAR"
+  },
+  "updatedAt": "2026-10-22T01:07:29.464361+00:00",
+  "description": {
+    "en": "Harira is a hearty Moroccan soup made with tomatoes, lentils, chickpeas, herbs, and spices. It is especially popular during Ramadan and is often eaten to break the daily fast.",
+    "ja": "ハリラは、トマト、レンズ豆、ひよこ豆、ハーブ、スパイスを使った具だくさんのモロッコのスープです。特にラマダンの時期に人気があり、断食明けの食事としてよく食べられます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Tomatoes, lentils, chickpeas, onions, celery, cilantro, parsley, flour, olive oil, ginger, turmeric, cinnamon, salt, pepper, and broth.",
+      "ja": "トマト、レンズ豆、ひよこ豆、玉ねぎ、セロリ、コリアンダー、パセリ、小麦粉、オリーブオイル、しょうが、ターメリック、シナモン、塩、こしょう、スープ。"
+    },
+    "preparation": {
+      "en": "Sauté onions and celery in olive oil. Add tomatoes, herbs, spices, lentils, chickpeas, and broth. Simmer until the legumes are tender. Mix flour with water, stir it into the soup, and cook until slightly thickened.",
+      "ja": "オリーブオイルで玉ねぎとセロリを炒めます。トマト、ハーブ、スパイス、レンズ豆、ひよこ豆、スープを加えます。豆が柔らかくなるまで煮込みます。小麦粉を水で溶いて加え、少しとろみがつくまで煮ます。"
+    }
+  },
+  "image": "Pictures/Harira.jpg"
+}

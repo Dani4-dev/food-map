@@ -1,0 +1,27 @@
+{
+  "id": "c43e9fa6-1b54-4078-d32a-8b5c4e9f7013",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Patatas Bravas",
+    "ja": "パタタス・ブラバス"
+  },
+  "origin": {
+    "country": "ESP"
+  },
+  "updatedAt": "2026-10-22T01:00:58.686584+00:00",
+  "description": {
+    "en": "A popular Spanish tapas dish consisting of crispy potato cubes served with a spicy tomato sauce.",
+    "ja": "カリッと揚げた角切りのじゃがいもに、辛いトマトソースなどをかけて食べるスペインのタパス料理です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Potatoes, olive oil, salt, tomatoes, garlic, paprika, and chili pepper.",
+      "ja": "じゃがいも、オリーブオイル、塩、トマト、にんにく、パプリカパウダー、唐辛子。"
+    },
+    "preparation": {
+      "en": "Cut potatoes into cubes and fry or roast until crispy. Cook tomatoes, garlic, paprika, and chili to make a spicy sauce. Serve the sauce over the potatoes.",
+      "ja": "じゃがいもを角切りにして、カリッとするまで揚げるか焼きます。トマト、にんにく、パプリカパウダー、唐辛子でソースを作り、じゃがいもにかけます。"
+    }
+  },
+  "image": "Pictures/Patatas Bravas.jpg"
+}

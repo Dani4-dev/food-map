@@ -1,0 +1,27 @@
+{
+  "id": "2b7c9e41-6a53-4d80-8f12-5c9a1e7b3d64",
+  "createdAt": "2026-10-16T02:05:00+00:00",
+  "name": {
+    "en": "Kewa Datshi",
+    "ja": "ケワ・ダツィ"
+  },
+  "origin": {
+    "country": "BTN"
+  },
+  "updatedAt": "2026-10-22T00:43:44.571062+00:00",
+  "description": {
+    "en": "A traditional Bhutanese dish made with potatoes and cheese. It has a soft texture and a creamy flavor, and chili peppers can be added for extra heat.",
+    "ja": "じゃがいもとチーズで作るブータンの伝統料理です。柔らかくクリーミーな味が特徴で、辛さを加えるために唐辛子を入れることもあります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Potatoes, cheese, onion, chili peppers, water, salt, and butter.",
+      "ja": "じゃがいも、チーズ、玉ねぎ、唐辛子、水、塩、バター。"
+    },
+    "preparation": {
+      "en": "Peel and slice the potatoes. Put them in a pot with onion, chili peppers, water, and salt. Cook until the potatoes are tender. Add cheese and butter, then simmer until the cheese melts.",
+      "ja": "じゃがいもの皮をむいて薄く切ります。鍋に玉ねぎ、唐辛子、水、塩と一緒に入れて煮ます。じゃがいもが柔らかくなったら、チーズとバターを加え、チーズが溶けるまで煮ます。"
+    }
+  },
+  "image": "Pictures/Kewa Datshi.jpg"
+}

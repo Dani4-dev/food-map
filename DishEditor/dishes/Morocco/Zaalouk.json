@@ -1,0 +1,27 @@
+{
+  "id": "c91e7a42-6b35-4f80-a2d9-1c8e5b7f3046",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Zaalouk",
+    "ja": "ザールーク"
+  },
+  "origin": {
+    "country": "MAR"
+  },
+  "updatedAt": "2026-10-22T01:08:28.326568+00:00",
+  "description": {
+    "en": "Zaalouk is a Moroccan cooked salad made from eggplant, tomatoes, garlic, olive oil, and spices. It is often served as a dip or side dish with bread.",
+    "ja": "ザールークは、なす、トマト、にんにく、オリーブオイル、スパイスで作るモロッコの温かいサラダです。ディップや付け合わせとして、パンと一緒に食べられます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Eggplant, tomatoes, garlic, olive oil, cumin, paprika, cilantro, salt, pepper, and lemon juice.",
+      "ja": "なす、トマト、にんにく、オリーブオイル、クミン、パプリカパウダー、コリアンダー、塩、こしょう、レモン汁。"
+    },
+    "preparation": {
+      "en": "Roast or boil the eggplant until tender. Chop it and cook with tomatoes, garlic, olive oil, and spices. Mash while stirring until thick. Add chopped cilantro and lemon juice, then serve warm or at room temperature.",
+      "ja": "なすを焼くか茹でて柔らかくします。刻んだなすをトマト、にんにく、オリーブオイル、スパイスと一緒に煮ます。混ぜながらつぶして、とろりとした状態にします。刻んだコリアンダーとレモン汁を加え、温かいまま、または常温で提供します。"
+    }
+  },
+  "image": "Pictures/Zaalouk.jpg"
+}

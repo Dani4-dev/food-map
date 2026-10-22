@@ -1,0 +1,29 @@
+{
+  "id": "548c2d35-6fa7-41b9-c260-4a3d7e9f1528",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Chinese Hot Pot",
+    "ja": "中国火鍋（ひなべ）"
+  },
+  "origin": {
+    "country": "CHN",
+    "region": "Sichuan",
+    "city": "Chongqing"
+  },
+  "updatedAt": "2026-10-22T02:28:08.282977+00:00",
+  "description": {
+    "en": "A popular Chinese meal in which meat, vegetables, tofu, and other ingredients are cooked in a simmering pot of broth at the table. Sichuan-style hot pot is known for its spicy broth.",
+    "ja": "肉、野菜、豆腐などを食卓の鍋で煮ながら食べる、中国で人気の料理です。四川風の火鍋は辛いスープで知られています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Broth, thinly sliced meat, leafy vegetables, mushrooms, tofu, noodles, chili peppers, and dipping sauce.",
+      "ja": "スープ、薄切り肉、葉物野菜、きのこ、豆腐、麺、唐辛子、つけだれ。"
+    },
+    "preparation": {
+      "en": "Bring the broth to a boil in a pot. Add chili peppers and other seasonings if desired. Cook the meat, vegetables, tofu, and noodles in the simmering broth, then dip them in sauce before eating.",
+      "ja": "鍋でスープを沸騰させます。好みに応じて唐辛子や調味料を加えます。肉、野菜、豆腐、麺をスープで煮て、たれにつけて食べます。"
+    }
+  },
+  "image": "Pictures/Chinese Hot Pot.jpg"
+}

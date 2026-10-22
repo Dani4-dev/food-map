@@ -1,0 +1,27 @@
+{
+  "id": "659d3e46-7ab8-42ca-d371-5b4e8f0a2639",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Chow Mein",
+    "ja": "チャオミン（中国風焼きそば）"
+  },
+  "origin": {
+    "country": "CHN"
+  },
+  "updatedAt": "2026-10-22T02:28:22.159577+00:00",
+  "description": {
+    "en": "A popular Chinese-style noodle dish made by stir-frying noodles with vegetables, and sometimes meat or seafood. It is known for its savory flavor and quick preparation.",
+    "ja": "麺と野菜、好みによって肉や魚介類を一緒に炒める人気の中国風料理です。うま味のある味と手軽さが特徴です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Wheat noodles, cabbage, carrots, bean sprouts, soy sauce, garlic, oil, and optional chicken or shrimp.",
+      "ja": "小麦麺、キャベツ、にんじん、もやし、しょうゆ、にんにく、油、好みによって鶏肉またはえび。"
+    },
+    "preparation": {
+      "en": "Boil the noodles and drain them. Stir-fry garlic and vegetables in oil. Add the noodles, soy sauce, and optional meat or seafood. Toss everything together and cook until heated through.",
+      "ja": "麺をゆでて水を切ります。油でにんにくと野菜を炒めます。麺、しょうゆ、好みによって肉や魚介類を加えます。全体を混ぜながら、しっかり火が通るまで炒めます。"
+    }
+  },
+  "image": "Pictures/Chow Mein.jpg"
+}

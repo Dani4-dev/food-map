@@ -1,0 +1,28 @@
+{
+  "id": "c34a9b53-ad67-4e14-c835-7f0a2b4d9263",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Luqaimat",
+    "ja": "ルゲイマート"
+  },
+  "origin": {
+    "country": "ARE",
+    "city": "Dubai"
+  },
+  "updatedAt": "2026-10-22T02:25:28.301204+00:00",
+  "description": {
+    "en": "Traditional Emirati sweet dumplings that are crispy outside and soft inside. They are often served with date syrup during festivals and special occasions.",
+    "ja": "外はカリッと、中は柔らかいアラブ首長国連邦の伝統的なお菓子です。デーツシロップをかけ、お祭りや特別な日に食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Flour, yeast, sugar, water, salt, oil, and date syrup.",
+      "ja": "小麦粉、イースト、砂糖、水、塩、油、デーツシロップ。"
+    },
+    "preparation": {
+      "en": "Mix flour, yeast, sugar, water, and salt to make a soft dough. Let it rise, then fry small portions in hot oil until golden. Drizzle with date syrup before serving.",
+      "ja": "小麦粉、イースト、砂糖、水、塩を混ぜて柔らかい生地を作り、発酵させます。小さく丸めて、熱い油で黄金色になるまで揚げます。食べる前にデーツシロップをかけます。"
+    }
+  },
+  "image": "Pictures/Luqaimat.jpg"
+}

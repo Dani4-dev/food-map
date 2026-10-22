@@ -1,0 +1,28 @@
+{
+  "id": "b23f8a42-9c56-4d03-b724-6e9f1a3c8152",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Shawarma",
+    "ja": "シャワルマ"
+  },
+  "origin": {
+    "country": "ARE",
+    "city": "Dubai"
+  },
+  "updatedAt": "2026-10-22T02:26:21.766832+00:00",
+  "description": {
+    "en": "A popular street food in Dubai made with seasoned meat wrapped in flatbread with vegetables and sauce. It is often eaten as a quick meal.",
+    "ja": "味付けした肉を野菜やソースと一緒に薄いパンで包んだ、ドバイで人気のストリートフードです。手軽な食事としてよく食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Chicken or beef, flatbread, yogurt, garlic, lemon juice, lettuce, tomatoes, and sauce.",
+      "ja": "鶏肉または牛肉、薄いパン、ヨーグルト、にんにく、レモン汁、レタス、トマト、ソース。"
+    },
+    "preparation": {
+      "en": "Marinate the meat with yogurt, garlic, lemon juice, and spices. Cook it thoroughly and slice it thinly. Put the meat, vegetables, and sauce on flatbread, then roll it up.",
+      "ja": "肉をヨーグルト、にんにく、レモン汁、香辛料に漬け込みます。しっかり火を通して薄く切ります。パンに肉、野菜、ソースをのせて巻きます。"
+    }
+  },
+  "image": "Pictures/Shawarma.jpg"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d1a7c842-6e35-4b90-8f21-9c5d3a704b16",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Chicken Tagine",
+    "ja": "チキン・タジン"
+  },
+  "origin": {
+    "country": "MAR"
+  },
+  "updatedAt": "2026-10-22T01:07:11.566395+00:00",
+  "description": {
+    "en": "Chicken Tagine is a traditional Moroccan dish cooked slowly with chicken, vegetables, spices, and preserved lemons or olives. It is known for its rich aroma and tender meat.",
+    "ja": "チキン・タジンは、鶏肉、野菜、スパイス、塩漬けレモンやオリーブなどを使って、じっくり煮込むモロッコの伝統料理です。豊かな香りと柔らかい肉が特徴です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Chicken, onions, garlic, carrots, potatoes, olives, preserved lemon, olive oil, ginger, turmeric, cumin, salt, pepper, and water or broth.",
+      "ja": "鶏肉、玉ねぎ、にんにく、にんじん、じゃがいも、オリーブ、塩漬けレモン、オリーブオイル、しょうが、ターメリック、クミン、塩、こしょう、水またはスープ。"
+    },
+    "preparation": {
+      "en": "Season the chicken with spices, salt, and pepper. Sauté onions and garlic in olive oil, then add the chicken, vegetables, olives, preserved lemon, and broth. Cover and simmer slowly until the chicken is tender and the vegetables are cooked.",
+      "ja": "鶏肉にスパイス、塩、こしょうで味を付けます。オリーブオイルで玉ねぎとにんにくを炒め、鶏肉、野菜、オリーブ、塩漬けレモン、スープを加えます。ふたをして、鶏肉と野菜が柔らかくなるまでじっくり煮込みます。"
+    }
+  },
+  "image": "Pictures/Chicken Tagine.jpg"
+}

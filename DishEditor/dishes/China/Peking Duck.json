@@ -1,0 +1,29 @@
+{
+  "id": "1048e9f1-2b63-4d75-a826-0c9f3a5e7184",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Peking Duck",
+    "ja": "北京ダック"
+  },
+  "origin": {
+    "country": "CHN",
+    "region": "Beijing",
+    "city": "Beijing"
+  },
+  "updatedAt": "2026-10-22T02:27:10.719736+00:00",
+  "description": {
+    "en": "A famous Chinese dish known for its crispy duck skin and tender meat. It is traditionally served with thin pancakes, cucumber, spring onions, and sweet bean sauce.",
+    "ja": "パリパリした皮と柔らかい肉が特徴の中国の有名な料理です。薄いパン、きゅうり、ねぎ、甘い豆みそと一緒に食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Duck, salt, honey, soy sauce, thin pancakes, cucumber, spring onions, and sweet bean sauce.",
+      "ja": "アヒル肉、塩、はちみつ、しょうゆ、薄いパン、きゅうり、ねぎ、甜麺醤。"
+    },
+    "preparation": {
+      "en": "Season the duck and brush it with honey and soy sauce. Roast until the skin becomes crispy and the meat is cooked. Slice the duck and serve with pancakes, vegetables, and sauce.",
+      "ja": "アヒル肉に味をつけ、はちみつとしょうゆを塗ります。皮がパリパリになり、肉に火が通るまで焼きます。薄く切り、パンや野菜、ソースと一緒に食べます。"
+    }
+  },
+  "image": "Pictures/Peking Duck.jpg"
+}

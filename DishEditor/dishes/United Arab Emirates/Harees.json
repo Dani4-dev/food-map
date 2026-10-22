@@ -1,0 +1,28 @@
+{
+  "id": "d45bac64-be78-4f25-d946-8a1b3c5e0374",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Harees",
+    "ja": "ハリース"
+  },
+  "origin": {
+    "country": "ARE",
+    "city": "Dubai"
+  },
+  "updatedAt": "2026-10-22T02:25:05.413109+00:00",
+  "description": {
+    "en": "A traditional Emirati dish made by slowly cooking wheat and meat until they become soft and creamy. It is especially popular during Ramadan and celebrations.",
+    "ja": "小麦と肉を柔らかくなるまでじっくり煮込んだ、アラブ首長国連邦の伝統料理です。ラマダンやお祝いのときによく食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Wheat, chicken or lamb, water, salt, and butter or ghee.",
+      "ja": "小麦、鶏肉または羊肉、水、塩、バターまたはギー。"
+    },
+    "preparation": {
+      "en": "Soak the wheat and cook it with meat, water, and salt over low heat for several hours. Stir until the mixture becomes soft and creamy. Add butter or ghee before serving.",
+      "ja": "小麦を水に浸し、肉、水、塩と一緒に弱火で数時間煮ます。柔らかくクリーミーになるまで混ぜます。食べる前にバターまたはギーを加えます。"
+    }
+  },
+  "image": "Pictures/Harees.jpg"
+}

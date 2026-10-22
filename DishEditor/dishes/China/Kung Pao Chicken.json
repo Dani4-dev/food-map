@@ -1,0 +1,28 @@
+{
+  "id": "2159fa02-3c74-4e86-b937-1d0a4b6f8295",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Kung Pao Chicken",
+    "ja": "宮保鶏丁（ゴンバオジーディン）"
+  },
+  "origin": {
+    "country": "CHN",
+    "region": "Sichuan"
+  },
+  "updatedAt": "2026-10-22T02:27:49.877832+00:00",
+  "description": {
+    "en": "A well-known Sichuan dish made with chicken, peanuts, chili peppers, and a savory sauce. It has a spicy, sweet, and slightly sour flavor.",
+    "ja": "鶏肉、ピーナッツ、唐辛子、特製ソースを使った四川料理です。辛さと甘さ、少し酸っぱい味が特徴です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Chicken, peanuts, dried chili peppers, spring onions, garlic, ginger, soy sauce, vinegar, sugar, and oil.",
+      "ja": "鶏肉、ピーナッツ、乾燥唐辛子、ねぎ、にんにく、しょうが、しょうゆ、酢、砂糖、油。"
+    },
+    "preparation": {
+      "en": "Cut the chicken into small pieces and season with soy sauce. Stir-fry it with garlic, ginger, and dried chili peppers. Add peanuts, spring onions, and a sauce made from soy sauce, vinegar, and sugar. Cook until the sauce thickens.",
+      "ja": "鶏肉を小さく切り、しょうゆで味をつけます。にんにく、しょうが、乾燥唐辛子と一緒に炒めます。ピーナッツ、ねぎ、しょうゆ、酢、砂糖で作ったソースを加え、とろみがつくまで炒めます。"
+    }
+  },
+  "image": "Pictures/Kung Pao Chicken.jpg"
+}

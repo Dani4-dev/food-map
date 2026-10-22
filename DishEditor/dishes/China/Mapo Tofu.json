@@ -1,0 +1,29 @@
+{
+  "id": "437b1c24-5e96-40a8-b159-3f2c6d8e0417",
+  "createdAt": "2026-10-22T01:00:00+00:00",
+  "name": {
+    "en": "Mapo Tofu",
+    "ja": "麻婆豆腐（マーボーどうふ）"
+  },
+  "origin": {
+    "country": "CHN",
+    "region": "Sichuan",
+    "city": "Chengdu"
+  },
+  "updatedAt": "2026-10-22T02:27:28.712348+00:00",
+  "description": {
+    "en": "A famous Sichuan dish made with tofu, chili bean paste, and minced meat. It is known for its spicy, savory flavor.",
+    "ja": "豆腐、豆板醤、ひき肉を使った有名な四川料理です。辛くてうま味のある味が特徴です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Tofu, ground pork or beef, chili bean paste, garlic, ginger, spring onions, soy sauce, and oil.",
+      "ja": "豆腐、豚ひき肉または牛ひき肉、豆板醤、にんにく、しょうが、ねぎ、しょうゆ、油。"
+    },
+    "preparation": {
+      "en": "Cut the tofu into cubes. Stir-fry the meat with garlic, ginger, and chili bean paste. Add water and soy sauce, then gently add the tofu. Simmer briefly and garnish with spring onions.",
+      "ja": "豆腐を角切りにします。ひき肉をにんにく、しょうが、豆板醤と一緒に炒めます。水としょうゆを加え、豆腐をそっと入れます。少し煮込み、ねぎをのせます。"
+    }
+  },
+  "image": "Pictures/Mapo Tofu.jpg"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "6b7e2f91-4c83-4a15-9d62-8f0a3c5e7b24",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Moroccan Couscous",
+    "ja": "モロッコ風クスクス"
+  },
+  "origin": {
+    "country": "MAR"
+  },
+  "updatedAt": "2026-10-22T01:07:41.264216+00:00",
+  "description": {
+    "en": "Moroccan Couscous is a traditional dish made from steamed wheat semolina served with vegetables, chickpeas, and sometimes meat. It is commonly enjoyed during family gatherings and on Fridays in Morocco.",
+    "ja": "モロッコ風クスクスは、蒸した小麦のクスクスに野菜やひよこ豆、ときには肉を添えた伝統料理です。モロッコでは家族の集まりや金曜日の食事によく食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Couscous, carrots, zucchini, pumpkin, chickpeas, onions, tomatoes, olive oil, vegetable or chicken broth, cumin, ginger, turmeric, salt, and pepper.",
+      "ja": "クスクス、にんじん、ズッキーニ、かぼちゃ、ひよこ豆、玉ねぎ、トマト、オリーブオイル、野菜または鶏肉のスープ、クミン、しょうが、ターメリック、塩、こしょう。"
+    },
+    "preparation": {
+      "en": "Steam the couscous until fluffy. Cook onions with olive oil, then add tomatoes, spices, chickpeas, vegetables, and broth. Simmer until the vegetables are tender. Serve the vegetables and broth over the couscous.",
+      "ja": "クスクスを蒸して、ふんわりと仕上げます。オリーブオイルで玉ねぎを炒め、トマト、スパイス、ひよこ豆、野菜、スープを加えます。野菜が柔らかくなるまで煮込み、クスクスの上に野菜とスープをかけて完成です。"
+    }
+  },
+  "image": "Pictures/Moroccan Couscous.jpg"
+}

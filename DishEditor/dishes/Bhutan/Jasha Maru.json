@@ -1,0 +1,27 @@
+{
+  "id": "4d9e2a63-8c75-4f02-ab34-7e1c3d9f5a86",
+  "createdAt": "2026-10-16T02:15:00+00:00",
+  "name": {
+    "en": "Jasha Maru",
+    "ja": "ジャシャ・マル"
+  },
+  "origin": {
+    "country": "BTN"
+  },
+  "updatedAt": "2026-10-22T00:46:00.303026+00:00",
+  "description": {
+    "en": "A traditional Bhutanese chicken stew made with tomatoes, onions, garlic, ginger, and chili peppers. It has a savory and spicy flavor and is usually served with rice.",
+    "ja": "鶏肉、トマト、玉ねぎ、にんにく、しょうが、唐辛子などで作るブータンの煮込み料理です。うま味と辛さがあり、ご飯と一緒によく食べられています。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Chicken, tomatoes, onion, garlic, ginger, chili peppers, oil, water, salt, and coriander.",
+      "ja": "鶏肉、トマト、玉ねぎ、にんにく、しょうが、唐辛子、油、水、塩、パクチー。"
+    },
+    "preparation": {
+      "en": "Cut the chicken into small pieces. Fry onion, garlic, and ginger in oil. Add the chicken, tomatoes, chili peppers, salt, and water. Simmer until the chicken is fully cooked. Garnish with coriander and serve with rice.",
+      "ja": "鶏肉を小さく切ります。油で玉ねぎ、にんにく、しょうがを炒めます。鶏肉、トマト、唐辛子、塩、水を加えます。鶏肉に火が通るまで煮て、パクチーをのせ、ご飯と一緒に食べます。"
+    }
+  },
+  "image": "Pictures/Jasha Maru.png"
+}

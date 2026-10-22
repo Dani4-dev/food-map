@@ -1,0 +1,27 @@
+{
+  "id": "f76b2cd9-4e87-43ab-a65d-1e8f7b2c0346",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Spanish Croquettes",
+    "ja": "クロケタス"
+  },
+  "origin": {
+    "country": "ESP"
+  },
+  "updatedAt": "2026-10-22T01:01:12.257254+00:00",
+  "description": {
+    "en": "Small crispy fried snacks with a creamy filling, often made with cured ham or chicken.",
+    "ja": "生ハムや鶏肉などを使ったクリーミーな具を衣で包み、カリッと揚げたスペインの軽食です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Butter, flour, milk, ham or cooked chicken, salt, pepper, eggs, breadcrumbs, and frying oil.",
+      "ja": "バター、小麦粉、牛乳、生ハムまたは調理した鶏肉、塩、こしょう、卵、パン粉、揚げ油。"
+    },
+    "preparation": {
+      "en": "Make a thick white sauce with butter, flour, and milk. Add chopped ham or chicken and season. Cool the mixture, shape into small rolls, coat with egg and breadcrumbs, and fry until golden.",
+      "ja": "バター、小麦粉、牛乳で濃いホワイトソースを作ります。刻んだハムや鶏肉を加えて味を調えます。冷まして小さく丸め、卵とパン粉をつけてきつね色になるまで揚げます。"
+    }
+  },
+  "image": "Pictures/Spanish Croquettes.jpg"
+}

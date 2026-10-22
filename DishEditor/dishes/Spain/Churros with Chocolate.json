@@ -1,0 +1,27 @@
+{
+  "id": "d54f0ab7-2c65-4189-e43b-9c6d5f0a8124",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Churros with Chocolate",
+    "ja": "チュロス・コン・チョコラテ"
+  },
+  "origin": {
+    "country": "ESP"
+  },
+  "updatedAt": "2026-10-22T01:00:09.021452+00:00",
+  "description": {
+    "en": "A popular Spanish snack made from crispy fried dough sticks served with thick hot chocolate.",
+    "ja": "カリッと揚げた細長い生地を、濃厚なホットチョコレートにつけて食べるスペインで人気のお菓子です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Flour, water, salt, frying oil, sugar, dark chocolate, and milk.",
+      "ja": "小麦粉、水、塩、揚げ油、砂糖、ダークチョコレート、牛乳。"
+    },
+    "preparation": {
+      "en": "Mix flour, hot water, and salt to make dough. Pipe the dough into hot oil and fry until golden. Serve with melted chocolate mixed with warm milk.",
+      "ja": "小麦粉、熱湯、塩を混ぜて生地を作ります。生地を絞り袋で熱い油に入れ、きつね色になるまで揚げます。溶かしたチョコレートと温めた牛乳を混ぜたソースを添えます。"
+    }
+  },
+  "image": "Pictures/Churros with Chocolate.jpg"
+}

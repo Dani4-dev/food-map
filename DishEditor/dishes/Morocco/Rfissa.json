@@ -1,0 +1,27 @@
+{
+  "id": "d52b8f16-0a74-4c93-b651-7e2d9f4830a5",
+  "createdAt": "2026-10-16T01:51:00+00:00",
+  "name": {
+    "en": "Rfissa",
+    "ja": "ルフィッサ"
+  },
+  "origin": {
+    "country": "MAR"
+  },
+  "updatedAt": "2026-10-22T01:08:09.446070+00:00",
+  "description": {
+    "en": "Rfissa is a traditional Moroccan dish featuring chicken and lentils served over shredded msemen flatbread. It is seasoned with fragrant spices, including fenugreek, and is often prepared for family occasions.",
+    "ja": "ルフィッサは、細かくちぎったムセメンというパンの上に鶏肉とレンズ豆をのせたモロッコの伝統料理です。フェヌグリークなどの香り豊かなスパイスで味付けし、家族の集まりなどで食べられます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Chicken, lentils, onions, msemen flatbread, fenugreek seeds, turmeric, ginger, saffron, olive oil, salt, pepper, and broth.",
+      "ja": "鶏肉、レンズ豆、玉ねぎ、ムセメン、フェヌグリークの種、ターメリック、しょうが、サフラン、オリーブオイル、塩、こしょう、スープ。"
+    },
+    "preparation": {
+      "en": "Cook the chicken with onions, spices, and fenugreek until tender. Add lentils and broth, then simmer until cooked. Tear the msemen into small pieces, place them on a serving plate, and spoon the chicken, lentils, and broth over the bread.",
+      "ja": "鶏肉を玉ねぎ、スパイス、フェヌグリークと一緒に柔らかくなるまで煮ます。レンズ豆とスープを加えて、火が通るまで煮込みます。ムセメンを小さくちぎって皿に盛り、鶏肉、レンズ豆、スープを上からかけます。"
+    }
+  },
+  "image": "Pictures/Rfissa.jpg"
+}
