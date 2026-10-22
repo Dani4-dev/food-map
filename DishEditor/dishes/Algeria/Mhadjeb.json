@@ -1,0 +1,29 @@
+
+{
+  "id": "e8b4c193-7a25-4d69-9f03-1b6c5e827a45",
+  "createdAt": "2026-10-16T03:10:00Z",
+  "name": {
+    "en": "Mhadjeb",
+    "ja": "ムハジェブ"
+  },
+  "origin": {
+    "country": "DZA",
+    "region": "",
+    "city": ""
+  },
+  "description": {
+    "en": "A popular Algerian street food consisting of thin semolina flatbread folded around a savory filling of onions, tomatoes, and spices.",
+    "ja": "セモリナ粉で作った薄い生地に、タマネギ、トマト、スパイスの具を包んで焼く、アルジェリアで人気のストリートフードです。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Fine semolina, water, salt, olive oil, onions, tomatoes, garlic, paprika, chili pepper, and black pepper.",
+      "ja": "細挽きセモリナ粉、水、塩、オリーブオイル、タマネギ、トマト、ニンニク、パプリカ、唐辛子、黒コショウ。"
+    },
+    "preparation": {
+      "en": "Mix semolina, water, and salt into a soft dough and let it rest. Cook chopped onions, tomatoes, garlic, and spices to make the filling. Stretch the dough very thin, add the filling, fold into a square, and cook on a lightly oiled griddle until golden on both sides.",
+      "ja": "セモリナ粉、水、塩を混ぜて柔らかい生地を作り、休ませます。刻んだタマネギ、トマト、ニンニク、スパイスを炒めて具を作ります。生地を薄く伸ばして具を包み、四角く折りたたみ、薄く油を引いた鉄板で両面がきつね色になるまで焼きます。"
+    }
+  },
+  "image": "Pictures/Mhadjeb.jpg"
+}

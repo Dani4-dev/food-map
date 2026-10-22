@@ -1,0 +1,29 @@
+{
+  "id": "c3d5e7f9-0a12-4b34-c567-8901def23456",
+  "createdAt": "2026-10-22T00:44:00Z",
+  "name": {
+    "en": "Stoemp",
+    "ja": "ストンプ"
+  },
+  "origin": {
+    "country": "BEL",
+    "region": "Brussels",
+    "city": "Brussels"
+  },
+  "updatedAt": "2026-10-22T00:58:50.482239+00:00",
+  "description": {
+    "en": "A comforting Belgian mashed vegetable dish traditionally made with potatoes and vegetables such as carrots, leeks, or cabbage. It is often served with sausage or other meat.",
+    "ja": "ジャガイモとニンジン、リーキ、キャベツなどの野菜を一緒につぶして作る、ベルギーの家庭料理です。ソーセージや肉料理の付け合わせとしてよく食べられます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Potatoes, carrots, leeks or cabbage, butter, milk or cream, salt, black pepper, and nutmeg (optional).",
+      "ja": "ジャガイモ、ニンジン、リーキまたはキャベツ、バター、牛乳または生クリーム、塩、黒コショウ、ナツメグ（お好みで）。"
+    },
+    "preparation": {
+      "en": "Peel and chop the potatoes and vegetables. Boil them in salted water until tender, then drain well. Mash the potatoes and vegetables together with butter and enough milk or cream to create a soft, chunky mixture. Season with salt, pepper, and nutmeg. Serve warm, optionally with browned sausage.",
+      "ja": "ジャガイモと野菜の皮をむき、食べやすい大きさに切ります。塩水で柔らかくなるまで茹で、水をよく切ります。バターと適量の牛乳または生クリームを加え、ジャガイモと野菜を一緒につぶして、少し粒が残る状態にします。塩、コショウ、ナツメグで味を調えます。温かいうちに、好みで焼いたソーセージを添えて提供します。"
+    }
+  },
+  "image": "Pictures/Stoemp.jpg"
+}

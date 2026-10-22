@@ -1,0 +1,29 @@
+
+{
+  "id": "c5d1a872-9e46-4f31-b7a0-2c8e6d519f34",
+  "createdAt": "2026-10-16T03:10:00Z",
+  "name": {
+    "en": "Chorba Frik",
+    "ja": "ショルバ・フリック"
+  },
+  "origin": {
+    "country": "DZA",
+    "region": "",
+    "city": ""
+  },
+  "description": {
+    "en": "A traditional Algerian soup prepared with meat, tomatoes, herbs, chickpeas, and frik, a type of roasted green cracked wheat. It is especially popular during Ramadan.",
+    "ja": "肉、トマト、ハーブ、ひよこ豆、フリックと呼ばれる青い小麦の挽き割りを使ったアルジェリアの伝統的なスープです。特にラマダンの時期によく食べられます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Frik (roasted green cracked wheat), lamb or chicken, tomatoes, onions, celery, chickpeas, coriander, mint, olive oil, salt, and black pepper.",
+      "ja": "フリック（炒った青い小麦の挽き割り）、ラム肉または鶏肉、トマト、タマネギ、セロリ、ひよこ豆、コリアンダー、ミント、オリーブオイル、塩、黒コショウ。"
+    },
+    "preparation": {
+      "en": "Sauté the onions and meat in olive oil. Add tomatoes, celery, chickpeas, herbs, spices, and water, then simmer until the meat is tender. Add the frik and cook until the grains soften and the soup thickens.",
+      "ja": "オリーブオイルでタマネギと肉を炒めます。トマト、セロリ、ひよこ豆、ハーブ、スパイス、水を加え、肉が柔らかくなるまで煮込みます。フリックを加え、粒が柔らかくなりスープにとろみがつくまで煮ます。"
+    }
+  },
+  "image": "Pictures/Chorba Frik.jpg"
+}

@@ -1,0 +1,29 @@
+
+{
+  "id": "7f3a9b21-6d84-4e52-a1c7-9b5d2f806e13",
+  "createdAt": "2026-10-16T03:10:00Z",
+  "name": {
+    "en": "Algerian Couscous",
+    "ja": "アルジェリア風クスクス"
+  },
+  "origin": {
+    "country": "DZA",
+    "region": "North Africa",
+    "city": ""
+  },
+  "description": {
+    "en": "A traditional Algerian dish made with steamed semolina grains, vegetables, chickpeas, and meat, served with a flavorful broth.",
+    "ja": "蒸したセモリナ粒に野菜、ひよこ豆、肉を合わせ、風味豊かなスープとともに楽しむアルジェリアの伝統料理です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Couscous semolina, lamb or chicken, carrots, zucchini, turnips, chickpeas, onions, tomatoes, olive oil, cumin, coriander, salt, and black pepper.",
+      "ja": "クスクス用セモリナ、ラム肉または鶏肉、ニンジン、ズッキーニ、カブ、ひよこ豆、タマネギ、トマト、オリーブオイル、クミン、コリアンダー、塩、黒コショウ。"
+    },
+    "preparation": {
+      "en": "Steam the couscous according to the package instructions. Simmer the meat with onions, tomatoes, chickpeas, vegetables, and spices until tender. Serve the couscous topped with the meat and vegetables, with broth alongside.",
+      "ja": "クスクスをパッケージの説明に従って蒸します。肉、タマネギ、トマト、ひよこ豆、野菜、スパイスを肉が柔らかくなるまで煮込みます。クスクスに肉と野菜を盛り付け、スープを添えて提供します。"
+    }
+  },
+  "image": "Pictures/Algerian Couscous.jpg"
+}

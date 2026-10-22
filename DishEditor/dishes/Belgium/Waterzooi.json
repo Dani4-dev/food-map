@@ -1,0 +1,29 @@
+{
+  "id": "d4e6f809-1b23-4c45-d678-9012ef345678",
+  "createdAt": "2026-10-22T00:44:00Z",
+  "name": {
+    "en": "Ghent Waterzooi",
+    "ja": "ヘント風ワーテルゾーイ"
+  },
+  "origin": {
+    "country": "BEL",
+    "region": "Flanders",
+    "city": "Ghent"
+  },
+  "updatedAt": "2026-10-22T01:01:02.743335+00:00",
+  "description": {
+    "en": "A creamy Belgian stew associated with Ghent, traditionally made with fish or chicken, root vegetables, and a gently thickened broth enriched with cream and egg yolks.",
+    "ja": "ヘント発祥として知られるベルギーのクリーミーな煮込み料理です。魚または鶏肉、根菜類を使い、クリームや卵黄でまろやかに仕上げたスープが特徴です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Chicken or white fish, carrots, leeks, celery, potatoes (optional), chicken or fish stock, cream, egg yolks, butter, parsley, salt, and black pepper.",
+      "ja": "鶏肉または白身魚、ニンジン、リーキ、セロリ、ジャガイモ（お好みで）、鶏または魚のブイヨン、生クリーム、卵黄、バター、パセリ、塩、黒コショウ。"
+    },
+    "preparation": {
+      "en": "Cut the meat or fish and vegetables into pieces. Gently cook the vegetables in butter, then add stock and simmer until tender. Add chicken and cook thoroughly, or add fish near the end so it does not break apart. Whisk cream and egg yolks together, then gradually mix in a little hot broth. Stir this mixture into the pot over low heat without boiling, until the broth becomes creamy. Season and garnish with parsley.",
+      "ja": "肉または魚と野菜を食べやすい大きさに切ります。バターで野菜を軽く炒め、ブイヨンを加えて柔らかくなるまで煮ます。鶏肉の場合は十分に火を通し、魚の場合は崩れないよう最後の方に加えます。生クリームと卵黄を混ぜ、熱いスープを少しずつ加えて温度をなじませます。鍋に戻し、沸騰させずに弱火で混ぜてクリーミーに仕上げます。塩、コショウで味を調え、パセリを添えて提供します。"
+    }
+  },
+  "image": "Pictures/Ghent Waterzooi.jpg"
+}

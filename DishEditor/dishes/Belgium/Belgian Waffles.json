@@ -1,0 +1,27 @@
+{
+  "id": "9c2e7a41-6b85-4d93-a2f6-3e8b5c704d16",
+  "createdAt": "2026-10-22T00:44:00Z",
+  "name": {
+    "en": "Belgian Waffles",
+    "ja": "ベルギーワッフル"
+  },
+  "origin": {
+    "country": "BEL"
+  },
+  "updatedAt": "2026-10-22T00:56:59.209560+00:00",
+  "description": {
+    "en": "A popular Belgian treat made from batter cooked in a waffle iron. Belgian waffles are known for their golden, crisp exterior and soft interior, and are often served with powdered sugar, whipped cream, or fresh fruit.",
+    "ja": "ワッフルメーカーで生地を焼き上げる、ベルギーで人気のスイーツです。外側はきつね色でカリッとし、内側はふんわりとした食感が特徴です。粉砂糖、ホイップクリーム、フルーツなどを添えて食べます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "All-purpose flour, milk, eggs, melted butter, sugar, yeast, salt, and vanilla extract (optional). Powdered sugar, whipped cream, or fresh fruit for serving.",
+      "ja": "小麦粉、牛乳、卵、溶かしバター、砂糖、イースト、塩、バニラエッセンス（お好みで）。仕上げ用の粉砂糖、ホイップクリーム、またはフルーツ。"
+    },
+    "preparation": {
+      "en": "Mix warm milk, yeast, and a little sugar, then let it sit until foamy. Add flour, eggs, melted butter, remaining sugar, salt, and vanilla, and mix into a smooth batter. Let the batter rise until doubled in size. Preheat a waffle iron, pour in the batter, and cook until golden and crisp. Serve with powdered sugar, whipped cream, or fresh fruit.",
+      "ja": "ぬるめの牛乳にイーストと少量の砂糖を混ぜ、泡立つまで置きます。小麦粉、卵、溶かしバター、残りの砂糖、塩、バニラエッセンスを加えてなめらかな生地にします。生地が約2倍に膨らむまで発酵させます。ワッフルメーカーを予熱し、生地を流し入れてきつね色でカリッとするまで焼きます。粉砂糖、ホイップクリーム、またはフルーツを添えて提供します。"
+    }
+  },
+  "image": "Pictures/Belgian Waffles.jpg"
+}

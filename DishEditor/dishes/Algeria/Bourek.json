@@ -1,0 +1,29 @@
+
+{
+  "id": "f6a9d207-5c31-4e84-a2b7-8d1f3c609e52",
+  "createdAt": "2026-10-16T03:10:00Z",
+  "name": {
+    "en": "Bourek",
+    "ja": "ブーレック"
+  },
+  "origin": {
+    "country": "DZA",
+    "region": "",
+    "city": ""
+  },
+  "description": {
+    "en": "A crispy Algerian pastry filled with seasoned minced meat, onions, and parsley, sometimes with egg. It is commonly served as a starter, especially during Ramadan.",
+    "ja": "味付けしたひき肉、タマネギ、パセリなどを薄い生地で包んで揚げる、パリパリとしたアルジェリアのペストリーです。前菜として、特にラマダンの時期によく食べられます。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Brick pastry sheets or thin pastry wrappers, minced beef or lamb, onions, parsley, eggs (optional), black pepper, cinnamon, salt, and oil for frying.",
+      "ja": "ブリック生地または薄いペストリーシート、牛ひき肉またはラムひき肉、タマネギ、パセリ、卵（お好みで）、黒コショウ、シナモン、塩、揚げ油。"
+    },
+    "preparation": {
+      "en": "Cook the minced meat with chopped onions and spices, then mix in parsley. Place the filling on a pastry sheet and add an egg if desired. Fold into a roll or triangle and seal the edges. Fry until golden and crispy, then drain and serve hot.",
+      "ja": "ひき肉を刻んだタマネギとスパイスとともに炒め、パセリを混ぜます。生地に具をのせ、お好みで卵を加えます。巻くか三角形に折り、端を閉じます。きつね色でカリッとするまで揚げ、油を切って熱いうちに提供します。"
+    }
+  },
+  "image": "Pictures/Bourek.jpg"
+}

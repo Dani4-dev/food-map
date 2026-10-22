@@ -1,0 +1,27 @@
+{
+  "id": "a1b3c5d7-8e90-4f12-a345-6789bcde0123",
+  "createdAt": "2026-10-22T00:44:00Z",
+  "name": {
+    "en": "Moules-Frites",
+    "ja": "ムール・フリット"
+  },
+  "origin": {
+    "country": "BEL"
+  },
+  "updatedAt": "2026-10-22T00:58:07.000911+00:00",
+  "description": {
+    "en": "A beloved Belgian dish of mussels steamed with aromatic vegetables and herbs, served with crispy Belgian fries. The mussels are often cooked in white wine or a flavorful broth.",
+    "ja": "香味野菜やハーブと一緒に蒸したムール貝に、ベルギー風のフライドポテトを添える人気料理です。ムール貝は白ワインや風味豊かなスープで調理されることがよくあります。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Fresh mussels, potatoes, onions, celery, garlic, parsley, butter, white wine or vegetable broth, oil for frying, and salt.",
+      "ja": "新鮮なムール貝、ジャガイモ、タマネギ、セロリ、ニンニク、パセリ、バター、白ワインまたは野菜スープ、揚げ油、塩。"
+    },
+    "preparation": {
+      "en": "Clean and debeard the mussels. Cut the potatoes into fries and fry until golden and crisp. In a large pot, sauté onions, celery, and garlic in butter. Add the mussels, white wine or broth, and parsley. Cover and steam until the mussels open, discarding any that remain closed. Serve hot with the fries.",
+      "ja": "ムール貝を洗い、足糸を取り除きます。ジャガイモを細長く切り、きつね色でカリッとするまで揚げます。大きな鍋でバターを熱し、タマネギ、セロリ、ニンニクを炒めます。ムール貝、白ワインまたはスープ、パセリを加えて蓋をし、貝が開くまで蒸します。開かなかった貝は取り除き、フライドポテトと一緒に熱いうちに提供します。"
+    }
+  },
+  "image": "Pictures/Moules-Frites.jpg"
+}

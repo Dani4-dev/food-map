@@ -1,0 +1,28 @@
+{
+  "id": "b2c4d6e8-9f01-4a23-b456-7890cdef1234",
+  "createdAt": "2026-10-22T00:44:00Z",
+  "name": {
+    "en": "Carbonnade Flamande",
+    "ja": "カルボナード・フラマンド"
+  },
+  "origin": {
+    "country": "BEL",
+    "region": "Flanders"
+  },
+  "updatedAt": "2026-10-22T00:56:40.549247+00:00",
+  "description": {
+    "en": "A traditional Flemish beef stew slowly cooked with Belgian beer, onions, and mustard-spread bread. It has a rich, savory flavor with a gentle sweetness from the onions and beer.",
+    "ja": "牛肉をベルギービール、タマネギ、マスタードを塗ったパンと一緒にじっくり煮込むフランドル地方の伝統料理です。濃厚な旨味と、タマネギやビール由来のほのかな甘みが特徴です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Beef chuck, Belgian dark beer, onions, butter, flour, mustard, bread, thyme, bay leaves, brown sugar (optional), salt, and black pepper.",
+      "ja": "牛肩肉、ベルギーのダークビール、タマネギ、バター、小麦粉、マスタード、パン、タイム、ローリエ、ブラウンシュガー（お好みで）、塩、黒コショウ。"
+    },
+    "preparation": {
+      "en": "Cut the beef into chunks and brown them in butter. Remove the beef and sauté sliced onions in the same pot. Return the beef, sprinkle with flour, and stir. Add Belgian beer, thyme, bay leaves, and seasoning. Spread mustard on slices of bread and place them on top of the stew. Cover and simmer gently for two to three hours until the beef is tender and the sauce thickens. Serve with fries or potatoes.",
+      "ja": "牛肉を角切りにし、バターで焼き色をつけます。肉を取り出し、同じ鍋で薄切りタマネギを炒めます。肉を戻し、小麦粉を振って混ぜます。ベルギービール、タイム、ローリエ、調味料を加えます。パンにマスタードを塗り、煮込みの上にのせます。蓋をして弱火で2〜3時間、肉が柔らかくなりソースにとろみがつくまで煮込みます。フライドポテトやジャガイモを添えて提供します。"
+    }
+  },
+  "image": "Pictures/Carbonnade Flamande.jpg"
+}

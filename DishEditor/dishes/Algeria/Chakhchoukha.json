@@ -1,0 +1,29 @@
+
+{
+  "id": "a2c8e451-3f97-4b60-8d12-6e9a5f704b23",
+  "createdAt": "2026-10-16T03:10:00Z",
+  "name": {
+    "en": "Chakhchoukha",
+    "ja": "シャフシュハ"
+  },
+  "origin": {
+    "country": "DZA",
+    "region": "Biskra and eastern Algeria",
+    "city": "Biskra"
+  },
+  "description": {
+    "en": "A hearty Algerian specialty made with torn pieces of thin flatbread soaked in a spiced tomato sauce with meat and chickpeas.",
+    "ja": "薄い平焼きパンをちぎり、肉やひよこ豆の入ったスパイシーなトマトソースに浸して食べる、アルジェリア東部の郷土料理です。"
+  },
+  "recipe": {
+    "ingredients": {
+      "en": "Thin flatbread, lamb, chickpeas, tomatoes, onions, garlic, green peppers, paprika, cumin, vegetable oil, salt, and black pepper.",
+      "ja": "薄い平焼きパン、ラム肉、ひよこ豆、トマト、タマネギ、ニンニク、青唐辛子、パプリカ、クミン、植物油、塩、黒コショウ。"
+    },
+    "preparation": {
+      "en": "Tear the thin flatbread into small pieces. Cook the lamb with onions, garlic, tomatoes, chickpeas, peppers, and spices in water until tender. Place the bread in a serving dish, pour the hot sauce over it, and top with the meat and chickpeas.",
+      "ja": "薄い平焼きパンを小さくちぎります。ラム肉、タマネギ、ニンニク、トマト、ひよこ豆、唐辛子、スパイスを水で肉が柔らかくなるまで煮込みます。パンを皿に盛り、熱いソースをかけて肉とひよこ豆をのせます。"
+    }
+  },
+  "image": "Pictures/Chakhchoukha.jpg"
+}
